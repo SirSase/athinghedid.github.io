@@ -1,0 +1,19 @@
+@font-face {
+    font-family: Nimbus;
+    src: url('../fonts/NimbusSanL-Reg.otf');
+}
+
+.icon-goodreads::before {
+    font-family: Nimbus;
+    font-style: normal;
+    content: "g";
+    font-size: 19px;
+}
+
+.portfolio-details .portfolio .portfolio-wrap .portfolio-links a{
+    width: 100%;
+}
+
+.portfolio-details .portfolio .portfolio-item{
+    margin-bottom: 0px;
+}
