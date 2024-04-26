@@ -17,3 +17,15 @@
 .portfolio-details .portfolio .portfolio-item{
     margin-bottom: 0px;
 }
+
+.parallax {
+    /* Background image */
+    background-image: url("../img/portfolio/50-anos-25abril-Leiria/IMG_20240425_152812.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
