@@ -1615,6 +1615,17 @@ var simplemaps_worldmap_mapdata={
       size: "10",
       type: "circle",
       scale: "yes"
+    },
+    "4": {
+      name: "Lisboa",
+      lat: "38.768635",
+      lng: "-9.094035",
+      color: "#2b7ced",
+      description: "The World of Hans Zimmer - Abr 2024",
+      url: "events/world-of-hans-zimmer.html",
+      size: "10",
+      type: "square",
+      scale: "yes"
     }
   },
   labels: {}
