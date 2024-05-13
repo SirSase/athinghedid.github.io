@@ -1578,7 +1578,7 @@ var simplemaps_worldmap_mapdata={
       lng: "-8.674534",
       color: "#ff6bee",
       description: "Residência",
-      url: "",
+      url: "events/fatima-12-maio.html",
       size: "8",
       type: "star",
       scale: "yes"
