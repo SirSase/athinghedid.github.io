@@ -1626,6 +1626,17 @@ var simplemaps_worldmap_mapdata={
       size: "10",
       type: "square",
       scale: "yes"
+    },
+    "5": {
+      name: "Vila Franca do Lima",
+      lat: "41.682190",
+      lng: "-8.737498",
+      color: "#ed1818",
+      description: "Festa das Rosas - Mai 2024",
+      url: "events/festa-das-rosas.html",
+      size: "10",
+      type: "heart",
+      scale: "yes"
     }
   },
   labels: {}

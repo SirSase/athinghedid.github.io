@@ -29,3 +29,44 @@
     background-repeat: no-repeat;
     background-size: contain;
 }
+
+.parallax-apulia {
+    /* Background image */
+    background-image: url("../img/portfolio/festa-das-rosas/2024_05_11_1134.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax-igreja {
+    /* Background image */
+    background-image: url("../img/portfolio/festa-das-rosas/IMG_20240511_154509.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax-desfile {
+    /* Background image */
+    background-image: url("../img/portfolio/festa-das-rosas/2024_05_11_1414.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.border-yellow{
+    --bs-border-opacity: 1;
+    border-color: rgba(255,238,16,var(--bs-border-opacity)) !important;
+}
