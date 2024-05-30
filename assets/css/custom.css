@@ -70,3 +70,11 @@
     --bs-border-opacity: 1;
     border-color: rgba(255,238,16,var(--bs-border-opacity)) !important;
 }
+
+#text-small{
+    font-size: 15px!important;
+}
+
+.portfolio .portfolio-wrap .portfolio-links a {
+    font-size: 20px!important;
+}
