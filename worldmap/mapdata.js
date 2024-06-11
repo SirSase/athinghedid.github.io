@@ -1637,6 +1637,17 @@ var simplemaps_worldmap_mapdata={
       size: "10",
       type: "heart",
       scale: "yes"
+    },
+    "5": {
+      name: "Piodão e Foz D'Égua",
+      lat: "40.229273",
+      lng: "-7.825033",
+      color: "#727a77",
+      description: "Piodão e Foz D'Égua - Jun 2024",
+      url: "events/piodao-foz-degua.html",
+      size: "10",
+      type: "square",
+      scale: "yes"
     }
   },
   labels: {}

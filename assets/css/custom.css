@@ -66,6 +66,42 @@
     background-size: cover;
 }
 
+.parallax-acesso-piodao {
+    /* Background image */
+    background-image: url("../img/portfolio/piodao-foz-degua/IMG_20240610_165314.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax-piodao {
+    /* Background image */
+    background-image: url("../img/portfolio/piodao-foz-degua/2024_06_10_2145.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax-foz-degua {
+    /* Background image */
+    background-image: url("../img/portfolio/piodao-foz-degua/2024_06_10_2283.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 .border-yellow{
     --bs-border-opacity: 1;
     border-color: rgba(255,238,16,var(--bs-border-opacity)) !important;

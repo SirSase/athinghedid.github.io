@@ -40,7 +40,8 @@
     "services_info":"*All services are subject to time and availability. It's also something I do in my free time.*",
     "category":"Category",
     "event":"Event",
-    "date":"Date"
+    "date":"Date",
+    "change-to": "Mudar para:"
     
 
 }
