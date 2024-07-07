@@ -102,6 +102,54 @@
     background-size: cover;
 }
 
+.parallax-prova-ocr {
+    /* Background image */
+    background-image: url("../img/portfolio/ocr-police-challenge-leiria/2024_07_07_2542.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax-equipa {
+    /* Background image */
+    background-image: url("../img/portfolio/ocr-police-challenge-leiria/2024_07_07_2625.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax-rio {
+    /* Background image */
+    background-image: url("../img/portfolio/ocr-police-challenge-leiria/2024_07_07_2709.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax-final {
+    /* Background image */
+    background-image: url("../img/portfolio/ocr-police-challenge-leiria/2024_07_07_3294.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 .border-yellow{
     --bs-border-opacity: 1;
     border-color: rgba(255,238,16,var(--bs-border-opacity)) !important;

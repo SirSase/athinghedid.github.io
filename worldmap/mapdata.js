@@ -1587,9 +1587,9 @@ var simplemaps_worldmap_mapdata={
       name: "Leiria",
       lat: "39.748489",
       lng: "-8.813094",
-      color: "#ff7d12",
-      description: "Corrida do Adepto - Jan 2024",
-      url: "events/corrida-adepto.html",
+      color: "#7d32a8",
+      description: "Leiria OCR Police - Jul 2024",
+      url: "events/ocr-police-challenge-leiria.html",
       size: "10",
       type: "triangle",
       scale: "yes"
@@ -1638,7 +1638,7 @@ var simplemaps_worldmap_mapdata={
       type: "heart",
       scale: "yes"
     },
-    "5": {
+    "6": {
       name: "Piodão e Foz D'Égua",
       lat: "40.229273",
       lng: "-7.825033",
