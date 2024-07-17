@@ -1616,7 +1616,7 @@ var simplemaps_worldmap_mapdata={
       type: "circle",
       scale: "yes"
     },
-    "5": {
+    "4": {
       name: "Lisboa",
       lat: "38.768635",
       lng: "-9.094035",
