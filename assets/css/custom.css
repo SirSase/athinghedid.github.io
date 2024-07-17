@@ -150,6 +150,150 @@
     background-size: cover;
 }
 
+.parallax-aves {
+    /* Background image */
+    background-image: url("../img/portfolio/zoo-lisboa/2024_07_16_3337.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax-pelicanos {
+    /* Background image */
+    background-image: url("../img/portfolio/zoo-lisboa/2024_07_16_3549.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax-primatas {
+    /* Background image */
+    background-image: url("../img/portfolio/zoo-lisboa/2024_07_16_3692.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax-bosque {
+    /* Background image */
+    background-image: url("../img/portfolio/zoo-lisboa/2024_07_16_4398.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax-savana {
+    /* Background image */
+    background-image: url("../img/portfolio/zoo-lisboa/2024_07_16_4339.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax-selva {
+    /* Background image */
+    background-image: url("../img/portfolio/zoo-lisboa/2024_07_16_3311.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax-golfinhos {
+    /* Background image */
+    background-image: url("../img/portfolio/zoo-lisboa/2024_07_16_4110.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax-pre-repteis-3 {
+    /* Background image */
+    background-image: url("../img/portfolio/zoo-lisboa/repteis-3.png");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax-pre-repteis-2 {
+    /* Background image */
+    background-image: url("../img/portfolio/zoo-lisboa/repteis-2.png");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax-pre-repteis-1 {
+    /* Background image */
+    background-image: url("../img/portfolio/zoo-lisboa/repteis-1.png");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax-repteis {
+    /* Background image */
+    background-image: url("../img/portfolio/zoo-lisboa/2024_07_16_4085.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax-fofinhos {
+    /* Background image */
+    background-image: url("../img/portfolio/zoo-lisboa/2024_07_16_4477.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 .border-yellow{
     --bs-border-opacity: 1;
     border-color: rgba(255,238,16,var(--bs-border-opacity)) !important;
