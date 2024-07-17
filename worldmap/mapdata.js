@@ -1616,13 +1616,13 @@ var simplemaps_worldmap_mapdata={
       type: "circle",
       scale: "yes"
     },
-    "4": {
+    "5": {
       name: "Lisboa",
       lat: "38.768635",
       lng: "-9.094035",
       color: "#2b7ced",
-      description: "The World of Hans Zimmer - Abr 2024",
-      url: "events/world-of-hans-zimmer.html",
+      description: "Jardim Zoológico - Jul 2024",
+      url: "events/zoo-lisboa.html",
       size: "10",
       type: "square",
       scale: "yes"
