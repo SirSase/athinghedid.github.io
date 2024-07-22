@@ -1588,8 +1588,8 @@ var simplemaps_worldmap_mapdata={
       lat: "39.748489",
       lng: "-8.813094",
       color: "#7d32a8",
-      description: "Leiria OCR Police - Jul 2024",
-      url: "events/ocr-police-challenge-leiria.html",
+      description: "Leiria Medieval - Jul 2024",
+      url: "events/leiria-medieval.html",
       size: "10",
       type: "triangle",
       scale: "yes"

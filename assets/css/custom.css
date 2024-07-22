@@ -294,6 +294,90 @@
     background-size: cover;
 }
 
+.parallax-recinto {
+    /* Background image */
+    background-image: url("../img/portfolio/leiria-medieval/2024_07_21_4571.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax-castelo {
+    /* Background image */
+    background-image: url("../img/portfolio/leiria-medieval/2024_07_21_4622.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax-artfalco {
+    /* Background image */
+    background-image: url("../img/portfolio/leiria-medieval/2024_07_21_4763.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax-demo-armas {
+    /* Background image */
+    background-image: url("../img/portfolio/leiria-medieval/2024_07_21_4685.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax-jograis {
+    /* Background image */
+    background-image: url("../img/portfolio/leiria-medieval/2024_07_21_4765.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax-vala-real {
+    /* Background image */
+    background-image: url("../img/portfolio/leiria-medieval/2024_07_21_5217.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax-justa-darmas {
+    /* Background image */
+    background-image: url("../img/portfolio/leiria-medieval/2024_07_21_5029.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 .border-yellow{
     --bs-border-opacity: 1;
     border-color: rgba(255,238,16,var(--bs-border-opacity)) !important;
