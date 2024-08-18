@@ -378,6 +378,30 @@
     background-size: cover;
 }
 
+.parallax-vuelta-fatima {
+    /* Background image */
+    background-image: url("../img/portfolio/la-vuelta/2024_08_18_5274.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax-vuelta-prova {
+    /* Background image */
+    background-image: url("../img/portfolio/la-vuelta/2024_08_18_5291.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 .border-yellow{
     --bs-border-opacity: 1;
     border-color: rgba(255,238,16,var(--bs-border-opacity)) !important;
