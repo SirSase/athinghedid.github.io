@@ -402,6 +402,30 @@
     background-size: cover;
 }
 
+.parallax-vespas {
+    /* Background image */
+    background-image: url("../img/portfolio/vespas-24/2024_08_31_5476.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax-vespas-passeio {
+    /* Background image */
+    background-image: url("../img/portfolio/vespas-24/2024_08_31_5720.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 .border-yellow{
     --bs-border-opacity: 1;
     border-color: rgba(255,238,16,var(--bs-border-opacity)) !important;
