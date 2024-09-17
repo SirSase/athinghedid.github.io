@@ -426,6 +426,67 @@
     background-size: cover;
 }
 
+.parallax-baseaerea {
+    /* Background image */
+    background-image: url("../img/portfolio/mreal/IMG_7177.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax-pista {
+    /* Background image */
+    background-image: url("../img/portfolio/mreal/IMG_7234.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax-exposicoes {
+    /* Background image */
+    background-image: url("../img/portfolio/mreal/IMG_7666.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax-cinotecnia {
+    /* Background image */
+    background-image: url("../img/portfolio/mreal/IMG_8142.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax-kc-f16 {
+    /* Background image */
+    background-image: url("../img/portfolio/mreal/IMG_8360.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
 .border-yellow{
     --bs-border-opacity: 1;
     border-color: rgba(255,238,16,var(--bs-border-opacity)) !important;

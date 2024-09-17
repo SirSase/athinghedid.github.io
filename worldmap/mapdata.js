@@ -1648,6 +1648,17 @@ var simplemaps_worldmap_mapdata={
       size: "10",
       type: "square",
       scale: "yes"
+    },
+    "7": {
+      name: "Monte Real - Base aérea - dia aberto",
+      lat: "39.831009",
+      lng: "-8.881206",
+      color: "#f5c242",
+      description: "Dia aberto, Base aéria nº 5 - Set 2024",
+      url: "events/monte-real-24.html",
+      size: "10",
+      type: "circle",
+      scale: "yes"
     }
   },
   labels: {}
