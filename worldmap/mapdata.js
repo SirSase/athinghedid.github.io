@@ -1578,7 +1578,7 @@ var simplemaps_worldmap_mapdata={
       lng: "-8.674534",
       color: "#ff6bee",
       description: "Residência",
-      url: "events/vespas-fatima-24.html",
+      url: "events/bencao-capacetes.html",
       size: "8",
       type: "star",
       scale: "yes"
