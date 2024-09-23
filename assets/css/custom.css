@@ -486,6 +486,42 @@
     background-size: cover;
 }
 
+.parallax-chegada-capacetes {
+    /* Background image */
+    background-image: url("../img/portfolio/bencao-capacetes/IMG_8673.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax-bencao {
+    /* Background image */
+    background-image: url("../img/portfolio/bencao-capacetes/IMG_8932.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax-saida {
+    /* Background image */
+    background-image: url("../img/portfolio/bencao-capacetes/IMG_8988.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 
 .border-yellow{
     --bs-border-opacity: 1;
