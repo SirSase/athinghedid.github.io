@@ -522,6 +522,43 @@
     background-size: cover;
 }
 
+.parallax-tarde-competicao {
+    /* Background image */
+    background-image: url("../img/portfolio/lrodas-24/tarde/IMG_0121.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.parallax-recinto-exposicoes {
+    /* Background image */
+    background-image: url("../img/portfolio/lrodas-24/recinto/IMG_0610.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.parallax-prova-noturna {
+    /* Background image */
+    background-image: url("../img/portfolio/lrodas-24/noite/IMG_0930.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
 .border-yellow{
     --bs-border-opacity: 1;
