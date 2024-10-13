@@ -560,6 +560,80 @@
     background-size: cover;
 }
 
+.parallax-partida-pombal {
+    /* Background image */
+    background-image: url("../img/portfolio/pav-conhec/IMG_20241012_081530.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.parallax-pav-conhecimento {
+    /* Background image */
+    background-image: url("../img/portfolio/pav-conhec/IMG_0030.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.parallax-exposicoes {
+    /* Background image */
+    background-image: url("../img/portfolio/pav-conhec/IMG_0055.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax-ciencia-pixar {
+    /* Background image */
+    background-image: url("../img/portfolio/pav-conhec/IMG_0206.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax-pipeline-pixar {
+    /* Background image */
+    background-image: url("../img/portfolio/pav-conhec/IMG_0394.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax-saida-lisboa {
+    /* Background image */
+    background-image: url("../img/portfolio/pav-conhec/IMG_0640.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 .border-yellow{
     --bs-border-opacity: 1;
     border-color: rgba(255,238,16,var(--bs-border-opacity)) !important;
