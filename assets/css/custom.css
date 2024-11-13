@@ -658,6 +658,30 @@
     background-size: cover;
 }
 
+.parallax-pias-voo {
+    /* Background image */
+    background-image: url("../img/portfolio/pias-longas/IMG_0089.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax-pias-magusto {
+    /* Background image */
+    background-image: url("../img/portfolio/pias-longas/IMG_0455.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 .border-yellow{
     --bs-border-opacity: 1;
     border-color: rgba(255,238,16,var(--bs-border-opacity)) !important;
