@@ -682,6 +682,44 @@
     background-size: cover;
 }
 
+
+.parallax-7-chicharo-partida {
+    /* Background image */
+    background-image: url("../img/portfolio/7-chicharo/IMG_0012.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax-7-chicharo-durante {
+    /* Background image */
+    background-image: url("../img/portfolio/7-chicharo/IMG_0141.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax-7-chicharo-chegada {
+    /* Background image */
+    background-image: url("../img/portfolio/7-chicharo/IMG_0608.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
 .border-yellow{
     --bs-border-opacity: 1;
     border-color: rgba(255,238,16,var(--bs-border-opacity)) !important;
