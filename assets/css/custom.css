@@ -719,6 +719,65 @@
     background-size: cover;
 }
 
+.parallax-sortelha {
+    /* Background image */
+    background-image: url("../img/portfolio/sabugal/sortelha/IMG_0090.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax-sabugal {
+    /* Background image */
+    background-image: url("../img/portfolio/sabugal/sabugal/IMG_0211.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax-sabugal-museu {
+    /* Background image */
+    background-image: url("../img/portfolio/sabugal/sabugal/IMG_0297.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax-sabugal-mercado {
+    /* Background image */
+    background-image: url("../img/portfolio/sabugal/sabugal/IMG_0366.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax-sabugal-presepio {
+    /* Background image */
+    background-image: url("../img/portfolio/sabugal/presepio/IMG_0409.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
 .border-yellow{
     --bs-border-opacity: 1;

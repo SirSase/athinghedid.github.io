@@ -1659,6 +1659,17 @@ var simplemaps_worldmap_mapdata={
       size: "10",
       type: "circle",
       scale: "yes"
+    },
+    "8": {
+      name: "Sabugal - Presépio",
+      lat: "40.349636",
+      lng: "-7.090636",
+      color: "#d10f0f",
+      description: "Sabugal - Presépio - Dec 2024",
+      url: "events/sabugal.html",
+      size: "10",
+      type: "triangle",
+      scale: "yes"
     }
   },
   labels: {}
