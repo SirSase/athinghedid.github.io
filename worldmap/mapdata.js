@@ -1670,6 +1670,17 @@ var simplemaps_worldmap_mapdata={
       size: "10",
       type: "triangle",
       scale: "yes"
+    },
+    "9": {
+      name: "Óbidos Vila Natal",
+      lat: "39.361744",
+      lng: "-9.157338",
+      color: "#d10f0f",
+      description: "Sabugal - Presépio - Dec 2024",
+      url: "events/obidos-vila-natal.html",
+      size: "10",
+      type: "star",
+      scale: "yes"
     }
   },
   labels: {}
