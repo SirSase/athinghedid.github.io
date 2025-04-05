@@ -1578,7 +1578,7 @@ var simplemaps_worldmap_mapdata={
       lng: "-8.674534",
       color: "#ff6bee",
       description: "Residência",
-      url: "events/bencao-capacetes.html",
+      url: "events/meia-maratona-fatima.html",
       size: "8",
       type: "star",
       scale: "yes"
@@ -1680,6 +1680,17 @@ var simplemaps_worldmap_mapdata={
       url: "events/obidos-vila-natal.html",
       size: "10",
       type: "star",
+      scale: "yes"
+    },
+    "10": {
+      name: "Tomar",
+      lat: "39.597717",
+      lng: "-8.4161147",
+      color: "#37b514",
+      description: "Tomar - Mar 2025",
+      url: "events/tomar.html",
+      size: "10",
+      type: "square",
       scale: "yes"
     }
   },

@@ -779,6 +779,52 @@
     background-size: cover;
 }
 
+.parallax-convento-cristo {
+    /* Background image */
+    background-image: url("../img/portfolio/tomar/IMG_0001.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax-tomar {
+    /* Background image */
+    background-image: url("../img/portfolio/tomar/IMG_0374.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax-museu-fosforo {
+    /* Background image */
+    background-image: url("../img/portfolio/tomar/IMG_0451.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax-skate {
+    /* Background image */
+    background-image: url("../img/portfolio/tomar/IMG_0513.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 .border-yellow{
     --bs-border-opacity: 1;
     border-color: rgba(255,238,16,var(--bs-border-opacity)) !important;
