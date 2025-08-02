@@ -813,9 +813,70 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+
 .parallax-skate {
     /* Background image */
     background-image: url("../img/portfolio/tomar/IMG_0513.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax-castelo-almourol {
+    /* Background image */
+    background-image: url("../img/portfolio/fnac-maratonas/IMG_0028.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax-cita {
+    /* Background image */
+    background-image: url("../img/portfolio/fnac-maratonas/IMG_0226.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax-vila-barquinha {
+    /* Background image */
+    background-image: url("../img/portfolio/fnac-maratonas/IMG_0437.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax-centro-historico {
+    /* Background image */
+    background-image: url("../img/portfolio/fnac-maratonas/IMG_0629.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax-leiria-medieval-2025 {
+    /* Background image */
+    background-image: url("../img/portfolio/medieval-2025/IMG_0416.jpg");
     /* Set a specific height */
     min-height: 500px;
     /* Create the parallax scrolling effect */

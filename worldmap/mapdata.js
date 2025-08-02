@@ -1588,8 +1588,8 @@ var simplemaps_worldmap_mapdata={
       lat: "39.748489",
       lng: "-8.813094",
       color: "#7d32a8",
-      description: "A Porta - Jun 2025",
-      url: "events/aporta.html",
+      description: "Leiria Medieval - Jul 2025",
+      url: "events/leiria-medieval-2025.html",
       size: "10",
       type: "triangle",
       scale: "yes"
@@ -1702,6 +1702,17 @@ var simplemaps_worldmap_mapdata={
       url: "events/fna.html",
       size: "10",
       type: "circle",
+      scale: "yes"
+    },
+    "12": {
+      name: "Vila Nova da Barquinha",
+      lat: "39.465469",
+      lng: "-8.410469",
+      color: "#ffb300",
+      description: "Maratonas Fotográficas FNAC - Jun 2025",
+      url: "events/fnac-maratonas.html",
+      size: "10",
+      type: "triangle",
       scale: "yes"
     }
   },
