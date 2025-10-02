@@ -1714,6 +1714,17 @@ var simplemaps_worldmap_mapdata={
       size: "10",
       type: "triangle",
       scale: "yes"
+    },
+    "13": {
+      name: "Valência",
+      lat: "39.466597",
+      lng: "-0.37614",
+      color: "#ff36f5",
+      description: "Valência - Set 2025",
+      url: "events/valencia.html",
+      size: "10",
+      type: "star",
+      scale: "yes"
     }
   },
   labels: {}

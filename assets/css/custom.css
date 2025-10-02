@@ -886,6 +886,95 @@
     background-size: cover;
 }
 
+.parallax-valencia-dia1 {
+    /* Background image */
+    background-image: url("../img/portfolio/valencia/dia1/IMG_0171.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax-valencia-dia2 {
+    /* Background image */
+    background-image: url("../img/portfolio/valencia/dia2/IMG_0029.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax-valencia-dia2-gumball {
+    /* Background image */
+    background-image: url("../img/portfolio/valencia/dia2/gumball/IMG_0014.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax-valencia-dia3 {
+    /* Background image */
+    background-image: url("../img/portfolio/valencia/dia3/IMG_0074.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax-valencia-dia3-oceanografic {
+    /* Background image */
+    background-image: url("../img/portfolio/valencia/dia3/oceanographic/IMG_0527.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax-valencia-dia3-museu {
+    /* Background image */
+    background-image: url("../img/portfolio/valencia/dia3/museu/IMG_0643.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax-valencia-dia3-hemisferic {
+    /* Background image */
+    background-image: url("../img/portfolio/valencia/dia3/museu/IMG_0652.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax-valencia-dia4 {
+    /* Background image */
+    background-image: url("../img/portfolio/valencia/dia4/IMG_0062.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 .border-yellow{
     --bs-border-opacity: 1;
     border-color: rgba(255,238,16,var(--bs-border-opacity)) !important;
