@@ -943,7 +943,7 @@
 }
 .parallax-valencia-dia3-museu {
     /* Background image */
-    background-image: url("../img/portfolio/valencia/dia3/museu/IMG_0643.jpg");
+    background-image: url("../img/portfolio/valencia/dia3/IMG_0643.jpg");
     /* Set a specific height */
     min-height: 500px;
     /* Create the parallax scrolling effect */
@@ -954,7 +954,7 @@
 }
 .parallax-valencia-dia3-hemisferic {
     /* Background image */
-    background-image: url("../img/portfolio/valencia/dia3/museu/IMG_0652.jpg");
+    background-image: url("../img/portfolio/valencia/dia3/IMG_0652.jpg");
     /* Set a specific height */
     min-height: 500px;
     /* Create the parallax scrolling effect */
@@ -986,4 +986,36 @@
 
 .portfolio .portfolio-wrap .portfolio-links a {
     font-size: 20px!important;
+}
+
+#floating-skip-btn {
+    position: fixed;
+    bottom: 40px;
+    right: 40px;
+    z-index: 9999;
+    background: #007bff;
+    color: #fff;
+    border-radius: 50%;
+    width: 125px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+    font-size: 2rem;
+    cursor: pointer;
+    transition: background 0.2s;
+}
+#floating-skip-btn:hover {
+    background: #0056b3;
+}
+#guumball {
+    position: relative;
+}
+#floating-skip-btn {
+    display: none;
+}
+#guumball:hover #floating-skip-btn,
+#guumball:focus-within #floating-skip-btn {
+    display: flex;
 }
