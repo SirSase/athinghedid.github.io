@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.athinghedid.com/sitemap.xml
+Host: https://www.athinghedid.com
