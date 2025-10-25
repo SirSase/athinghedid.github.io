@@ -974,6 +974,17 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+.parallax-3hresistencia {
+    /* Background image */
+    background-image: url("../img/portfolio/3-horas-resistencia-loureira/IMG_0046.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
 .border-yellow{
     --bs-border-opacity: 1;
