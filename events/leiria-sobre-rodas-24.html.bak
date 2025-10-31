@@ -1,0 +1,2825 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-TT3822KLT9"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'G-TT3822KLT9');
+    </script>
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta name="author" content="Tiago Batista">
+    <title>Portfolio Details - Leiria sobre rodas by Tiago Batista</title>
+    <meta content="Leiria sobre rodas - Leiria - 2024" name="description">
+    <meta content="rodas, leira, leiria sobre rodas, carros, rally, tunning, jantes, competição, competition, stage, tiago batista" name="keywords">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+
+    <!-- Favicons -->
+    <link href="../assets/img/favicon.png" rel="icon">
+    <link href="../assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+    <!-- Google Fonts -->
+    <link
+        href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
+        rel="stylesheet">
+
+    <!-- Vendor CSS Files -->
+    <link href="../assets/vendor/aos/aos.css" rel="stylesheet">
+    <link href="../assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="../assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+    <link href="../assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+    <link href="../assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+    <link href="../assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+
+    <!-- Template Main CSS File -->
+    <link href="../assets/css/style.css" rel="stylesheet">
+    <link href="../assets/css/custom.css" rel="stylesheet">
+
+    <!-- Custom JS File -->
+    <script src="../assets/js/custom.js"></script>
+
+    <!-- World map-->
+    <script src="../worldmap/mapdata.js"></script>
+    <script src="../worldmap/worldmap.js"></script>
+
+    <!-- =======================================================
+  * Template Name: iPortfolio
+  * Updated: Jan 29 2024 with Bootstrap v5.3.2
+  * Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
+</head>
+
+<body>
+
+    <!-- ======= Mobile nav toggle button ======= -->
+    <i class="bi bi-list mobile-nav-toggle d-xl-none"></i>
+
+    <!-- ======= Header ======= -->
+    <header id="header">
+        <div class="d-flex flex-column">
+
+            <div class="profile">
+        <img src="../assets/img/profile-img.jpg" alt="" class="img-fluid rounded-circle">
+        <h1 class="text-light"><a href="../index.html">Tiago B.</a></h1>
+        <div class="social-links mt-3 text-center">
+          <a href="https://www.goodreads.com/user/show/174311663-tiago-b" target="_blank" class="goodreads"><i
+              class="icon-goodreads"></i></a>
+          <a href="https://www.instagram.com/tiago.batista_athinghedid" target="_blank" class="instagram"><i
+              class="bx bxl-instagram"></i></a>
+          <a href="https://tbfotos.photohawk.com" target="_blank" class="" style="background: transparent;"><img src="../assets/img/phawk-logo.jpg" style="width: 35px; margin-top: 3px;"/></a>
+        </div>
+      </div>
+
+            <nav id="navbar" class="nav-menu navbar">
+                <ul>
+                    <li><a href="../index.html" class="nav-link scrollto active"><i class="bx bx-home"></i>
+                            <span>Home</span></a>
+                    </li>
+                    <li>
+                        <ul>
+                            <li id="langPtOpt" style="display: none;"><a href="#" onclick="changeLanguage('pt')"><img
+                                        src="../assets/img/pt.svg" width="35px"></a>
+                            </li>
+                            <li id="langEnOpt" style="display: none;"><a href="#" onclick="changeLanguage('en')"><img
+                                        src="../assets/img/gb.svg" width="35px"></a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </nav><!-- .nav-menu -->
+        </div>
+    </header><!-- End Header -->
+
+    <main id="main">
+
+        <!-- ======= Breadcrumbs ======= -->
+        <section id="breadcrumbs" class="breadcrumbs">
+            <div class="container">
+
+                <div class="d-flex justify-content-between align-items-center">
+                    <h2>Portfolio</h2>
+                    <ol>
+                        <li><a href="../index.html">Home</a></li>
+                        <li>Portfolio</li>
+                    </ol>
+                </div>
+
+            </div>
+        </section><!-- End Breadcrumbs -->
+
+        <!-- ======= Portfolio Details Section ======= -->
+        <section class="portfolio-details">
+            <div class="container">
+                <div class="row gy-4">
+                    <div class="col-lg-4">
+                        <div class="portfolio-info">
+                            <h3><span data-i18n="details"></span></h3>
+                            <ul>
+                                <li><strong><span data-i18n="category"></span></strong>: <span
+                                        data-i18n="national"></span></li>
+                                <li><strong><span data-i18n="event"></span></strong>: Leiria sobre Rodas - Leiria</li>
+                                <li><strong><span data-i18n="date"></span></strong>: 28 Set, 2024</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-8 align-items-center text-center mb-5">
+                        <div class="container portfolio-details ">
+                            <div class="row">
+                                <div class="col">
+                                    <div class="portfolio-details-slider swiper border border-info">
+                                        <div class="swiper-wrapper align-items-center text-center">
+                                            <div class="swiper-slide">
+                                                <div class="portfolio">
+                                                    <div class="portfolio-wrap">
+                                                        <img src="../assets/img/portfolio/lrodas-24/banner.png"
+                                                            class="img-fluid" alt="">
+                                                        <div class="portfolio-links">
+                                                            <a href="../assets/img/portfolio/lrodas-24/banner.png"
+                                                                data-gallery="portfolioGallery"
+                                                                class="portfolio-lightbox" title="Banner"><i
+                                                                    class="bx bx-window-open"></i></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section><!-- End Portfolio Details Section -->
+
+        <div class="parallax-tarde-competicao">
+            <div style="height: 500px;" class="text-center align-items-center d-flex">
+                <h2 class="justify-content-center align-self-center" style="color: white; margin-left: auto;
+            margin-right: auto; text-shadow: 1px 1px 2px black;"> <b><i>Tarde de Competição</i></b> </h2>
+            </div>
+        </div>
+
+        <div class="container-fluid">
+            <div class="row no-gutter">
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/tarde/IMG_0027.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/tarde/IMG_0027.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0027"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/tarde/IMG_0037.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/tarde/IMG_0037.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0037"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/tarde/IMG_0068.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/tarde/IMG_0068.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0068"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/tarde/IMG_0076.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/tarde/IMG_0076.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0076"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/tarde/IMG_0121.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/tarde/IMG_0121.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0121"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/tarde/IMG_0133.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/tarde/IMG_0133.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0133"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/tarde/IMG_0136.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/tarde/IMG_0136.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0136"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/tarde/IMG_0153.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/tarde/IMG_0153.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0153"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/tarde/IMG_0167.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/tarde/IMG_0167.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0167"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/tarde/IMG_0194.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/tarde/IMG_0194.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0194"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/tarde/IMG_0208.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/tarde/IMG_0208.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0208"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/tarde/IMG_0212.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/tarde/IMG_0212.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0212"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/tarde/IMG_0214.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/tarde/IMG_0214.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0214"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/tarde/IMG_0221.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/tarde/IMG_0221.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0221"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/tarde/IMG_0231.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/tarde/IMG_0231.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0231"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/tarde/IMG_0243.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/tarde/IMG_0243.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0243"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/tarde/IMG_0252.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/tarde/IMG_0252.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0252"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/tarde/IMG_0259.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/tarde/IMG_0259.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0259"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/tarde/IMG_0278.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/tarde/IMG_0278.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0278"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/tarde/IMG_0282.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/tarde/IMG_0282.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0282"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/tarde/IMG_0291.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/tarde/IMG_0291.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0291"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/tarde/IMG_0328.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/tarde/IMG_0328.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0328"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/tarde/IMG_0340.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/tarde/IMG_0340.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0340"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/tarde/IMG_0393.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/tarde/IMG_0393.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0393"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/tarde/IMG_0400.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/tarde/IMG_0400.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0400"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details mb-5">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/tarde/IMG_0444.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/tarde/IMG_0444.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0444"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+
+            </div>
+        </div>
+
+        <div class="parallax-recinto-exposicoes">
+            <div style="height: 500px;" class="text-center align-items-center d-flex">
+                <h2 class="justify-content-center align-self-center" style="color: white; margin-left: auto;
+            margin-right: auto; text-shadow: 1px 1px 2px black;"> <b><i>Recinto e Exposições</i></b> </h2>
+            </div>
+        </div>
+
+
+        <div class="container-fluid">
+            <div class="row no-gutter">
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/recinto/IMG_0452.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/recinto/IMG_0452.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_0452"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/recinto/IMG_0454.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/recinto/IMG_0454.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_0454"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/recinto/IMG_0458.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/recinto/IMG_0458.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_0458"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/recinto/IMG_0482.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/recinto/IMG_0482.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_0482"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/recinto/IMG_0484.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/recinto/IMG_0484.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_0484"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/recinto/IMG_0493.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/recinto/IMG_0493.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_0493"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/recinto/IMG_0495.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/recinto/IMG_0495.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_0495"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/recinto/IMG_0499.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/recinto/IMG_0499.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_0499"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/recinto/IMG_0500.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/recinto/IMG_0500.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_0500"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/recinto/IMG_0513.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/recinto/IMG_0513.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_0513"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/recinto/IMG_0521.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/recinto/IMG_0521.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_0521"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/recinto/IMG_0526.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/recinto/IMG_0526.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_0526"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/recinto/IMG_0533.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/recinto/IMG_0533.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_0533"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/recinto/IMG_0540.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/recinto/IMG_0540.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_0540"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/recinto/IMG_0548.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/recinto/IMG_0548.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_0548"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/recinto/IMG_0556.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/recinto/IMG_0556.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_0556"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/recinto/IMG_0563.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/recinto/IMG_0563.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_0563"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/recinto/IMG_0565.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/recinto/IMG_0565.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_0565"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/recinto/IMG_0578.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/recinto/IMG_0578.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_0578"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/recinto/IMG_0586.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/recinto/IMG_0586.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_0586"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/recinto/IMG_0590.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/recinto/IMG_0590.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_0590"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/recinto/IMG_0597.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/recinto/IMG_0597.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_0597"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/recinto/IMG_0607.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/recinto/IMG_0607.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_0607"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/recinto/IMG_0610.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/recinto/IMG_0610.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_0610"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/recinto/IMG_0616.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/recinto/IMG_0616.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_0616"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/recinto/IMG_0619.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/recinto/IMG_0619.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_0619"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/recinto/IMG_0622.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/recinto/IMG_0622.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_0622"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/recinto/IMG_0633.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/recinto/IMG_0633.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_0633"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/recinto/IMG_0639.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/recinto/IMG_0639.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_0639"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/recinto/IMG_0642.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/recinto/IMG_0642.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_0642"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/recinto/IMG_0645.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/recinto/IMG_0645.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_0645"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/recinto/IMG_0652.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/recinto/IMG_0652.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_0652"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/recinto/IMG_0681.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/recinto/IMG_0681.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_0681"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/recinto/IMG_0722.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/recinto/IMG_0722.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_0722"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/recinto/IMG_0728.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/recinto/IMG_0728.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_0728"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/recinto/IMG_0734.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/recinto/IMG_0734.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_0734"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/recinto/IMG_0738.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/recinto/IMG_0738.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_0738"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/recinto/IMG_0753.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/recinto/IMG_0753.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_0753"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/recinto/IMG_0762.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/recinto/IMG_0762.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_0762"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/recinto/IMG_0817.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/recinto/IMG_0817.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_0817"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/recinto/IMG_0788.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/recinto/IMG_0788.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_0788"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/recinto/IMG_0790.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/recinto/IMG_0790.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_0790"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/recinto/IMG_0795.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/recinto/IMG_0795.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_0795"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/recinto/IMG_0801.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/recinto/IMG_0801.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_0801"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/recinto/IMG_0806.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/recinto/IMG_0806.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_0806"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/recinto/IMG_0809.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/recinto/IMG_0809.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_0809"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/recinto/IMG_0826.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/recinto/IMG_0826.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_0826"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/recinto/IMG_0833.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/recinto/IMG_0833.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_0833"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/recinto/IMG_0851.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/recinto/IMG_0851.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_0851"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container portfolio-details mb-5">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/recinto/IMG_0860.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/recinto/IMG_0860.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_0860"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+        <div class="parallax-prova-noturna">
+            <div style="height: 500px;" class="text-center align-items-center d-flex">
+                <h2 class="justify-content-center align-self-center" style="color: white; margin-left: auto;
+            margin-right: auto; text-shadow: 1px 1px 2px black;"> <b><i>Prova noturna</i></b> </h2>
+            </div>
+        </div>
+
+
+        <div class="container-fluid">
+            <div class="row no-gutter">
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/noite/IMG_0873.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/noite/IMG_0873.jpg"
+                                                        data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                        title="IMG_0873"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/noite/IMG_0877.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/noite/IMG_0877.jpg"
+                                                        data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                        title="IMG_0877"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/noite/IMG_0880.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/noite/IMG_0880.jpg"
+                                                        data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                        title="IMG_0880"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/noite/IMG_0885.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/noite/IMG_0885.jpg"
+                                                        data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                        title="IMG_0885"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details ">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/noite/IMG_0890.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/noite/IMG_0890.jpg"
+                                                        data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                        title="IMG_0890"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details ">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/noite/IMG_0892.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/noite/IMG_0892.jpg"
+                                                        data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                        title="IMG_0892"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details ">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/noite/IMG_0983.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/noite/IMG_0983.jpg"
+                                                        data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                        title="IMG_0983"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details ">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/noite/IMG_0991.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/noite/IMG_0991.jpg"
+                                                        data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                        title="IMG_0991"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details ">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/noite/IMG_1008.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/noite/IMG_1008.jpg"
+                                                        data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                        title="IMG_1008"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details ">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/noite/IMG_1013.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/noite/IMG_1013.jpg"
+                                                        data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                        title="IMG_1013"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details ">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/noite/IMG_1014.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/noite/IMG_1014.jpg"
+                                                        data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                        title="IMG_1014"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details ">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/noite/IMG_1096.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/noite/IMG_1096.jpg"
+                                                        data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                        title="IMG_1096"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details ">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/noite/IMG_1190.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/noite/IMG_1190.jpg"
+                                                        data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                        title="IMG_1190"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details ">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/noite/IMG_1193.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/noite/IMG_1193.jpg"
+                                                        data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                        title="IMG_1193"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details ">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/noite/IMG_1223.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/noite/IMG_1223.jpg"
+                                                        data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                        title="IMG_1223"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details ">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/noite/IMG_1234.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/noite/IMG_1234.jpg"
+                                                        data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                        title="IMG_1234"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details ">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/noite/IMG_1236.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/noite/IMG_1236.jpg"
+                                                        data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                        title="IMG_1236"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details ">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/noite/IMG_1272.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/noite/IMG_1272.jpg"
+                                                        data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                        title="IMG_1272"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details ">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/noite/IMG_1274.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/noite/IMG_1274.jpg"
+                                                        data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                        title="IMG_1274"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details ">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/noite/IMG_1282.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/noite/IMG_1282.jpg"
+                                                        data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                        title="IMG_1282"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details ">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/noite/IMG_1280.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/noite/IMG_1280.jpg"
+                                                        data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                        title="IMG_1280"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container portfolio-details ">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/noite/IMG_1285.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/noite/IMG_1285.jpg"
+                                                        data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                        title="IMG_1285"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container portfolio-details ">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/noite/IMG_1293.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/noite/IMG_1293.jpg"
+                                                        data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                        title="IMG_1293"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container portfolio-details ">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/noite/IMG_1304.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/noite/IMG_1304.jpg"
+                                                        data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                        title="IMG_1304"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container portfolio-details ">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/noite/IMG_1306.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/noite/IMG_1306.jpg"
+                                                        data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                        title="IMG_1306"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container portfolio-details ">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/noite/IMG_1310.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/noite/IMG_1310.jpg"
+                                                        data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                        title="IMG_1310"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container portfolio-details ">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/noite/IMG_1328.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/noite/IMG_1328.jpg"
+                                                        data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                        title="IMG_1328"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container portfolio-details ">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/noite/IMG_1330.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/noite/IMG_1330.jpg"
+                                                        data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                        title="IMG_1330"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container portfolio-details mb-5">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/lrodas-24/noite/IMG_1334.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/lrodas-24/noite/IMG_1334.jpg"
+                                                        data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                        title="IMG_1334"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+
+    </main><!-- End #main -->
+
+    <!-- ======= Footer ======= -->
+    <footer id="footer">
+        <div class="container">
+            <div class="copyright">
+                &copy; Copyright <strong><span>iPortfolio</span>&nbsp;& <br> Tiago 2024</strong>
+            </div>
+            <div class="credits">
+                <!-- All the links in the footer should remain intact. -->
+                <!-- You can delete the links only if you purchased the pro version. -->
+                <!-- Licensing information: https://bootstrapmade.com/license/ -->
+                <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/ -->
+                Original design by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+            </div>
+        </div>
+    </footer><!-- End  Footer -->
+
+    <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
+            class="bi bi-arrow-up-short"></i></a>
+
+    <!-- Vendor JS Files -->
+    <script src="../assets/vendor/purecounter/purecounter_vanilla.js"></script>
+    <script src="../assets/vendor/aos/aos.js"></script>
+    <script src="../assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="../assets/vendor/glightbox/js/glightbox.min.js"></script>
+    <script src="../assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+    <script src="../assets/vendor/swiper/swiper-bundle.min.js"></script>
+    <script src="../assets/vendor/typed.js/typed.umd.js"></script>
+    <script src="../assets/vendor/waypoints/noframework.waypoints.js"></script>
+    <script src="../assets/vendor/php-email-form/validate.js"></script>
+
+    <!-- Template Main JS File -->
+    <script src="../assets/js/main.js"></script>
+</body>
+
+</html>

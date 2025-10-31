@@ -1,0 +1,2483 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-TT3822KLT9"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'G-TT3822KLT9');
+    </script>
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta name="author" content="Tiago Batista">
+    <title>Portfolio Details - Festa das Rosas - Vila Franca by Tiago Batista</title>
+    <meta content="Festa das Rosas, Vila Franca" name="description">
+    <meta content="Festa das Rosas, Vila Franca, Vila Franca do Lima, Tiago Batista" name="keywords">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+
+    <!-- Favicons -->
+    <link href="../assets/img/favicon.png" rel="icon">
+    <link href="../assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+    <!-- Google Fonts -->
+    <link
+        href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
+        rel="stylesheet">
+
+    <!-- Vendor CSS Files -->
+    <link href="../assets/vendor/aos/aos.css" rel="stylesheet">
+    <link href="../assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="../assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+    <link href="../assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+    <link href="../assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+    <link href="../assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+
+    <!-- Template Main CSS File -->
+    <link href="../assets/css/style.css" rel="stylesheet">
+    <link href="../assets/css/custom.css" rel="stylesheet">
+
+    <!-- Custom JS File -->
+    <script src="../assets/js/custom.js"></script>
+
+    <!-- World map-->
+    <script src="../worldmap/mapdata.js"></script>
+    <script src="../worldmap/worldmap.js"></script>
+
+    <!-- =======================================================
+  * Template Name: iPortfolio
+  * Updated: Jan 29 2024 with Bootstrap v5.3.2
+  * Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
+</head>
+
+<body>
+
+    <!-- ======= Mobile nav toggle button ======= -->
+    <i class="bi bi-list mobile-nav-toggle d-xl-none"></i>
+
+    <!-- ======= Header ======= -->
+    <header id="header">
+        <div class="d-flex flex-column">
+
+            <div class="profile">
+        <img src="../assets/img/profile-img.jpg" alt="" class="img-fluid rounded-circle">
+        <h1 class="text-light"><a href="../index.html">Tiago B.</a></h1>
+        <div class="social-links mt-3 text-center">
+          <a href="https://www.goodreads.com/user/show/174311663-tiago-b" target="_blank" class="goodreads"><i
+              class="icon-goodreads"></i></a>
+          <a href="https://www.instagram.com/tiago.batista_athinghedid" target="_blank" class="instagram"><i
+              class="bx bxl-instagram"></i></a>
+          <a href="https://tbfotos.photohawk.com" target="_blank" class="" style="background: transparent;"><img src="../assets/img/phawk-logo.jpg" style="width: 35px; margin-top: 3px;"/></a>
+        </div>
+      </div>
+
+            <nav id="navbar" class="nav-menu navbar">
+                <ul>
+                    <li><a href="../index.html" class="nav-link scrollto active"><i class="bx bx-home"></i>
+                            <span>Home</span></a>
+                    </li>
+                    <li>
+                        <ul>
+                            <li id="langPtOpt" style="display: none;"><a href="#" onclick="changeLanguage('pt')"><img
+                                        src="../assets/img/pt.svg" width="35px"></a>
+                            </li>
+                            <li id="langEnOpt" style="display: none;"><a href="#" onclick="changeLanguage('en')"><img
+                                        src="../assets/img/gb.svg" width="35px"></a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </nav><!-- .nav-menu -->
+        </div>
+    </header><!-- End Header -->
+
+    <main id="main">
+
+        <!-- ======= Breadcrumbs ======= -->
+        <section id="breadcrumbs" class="breadcrumbs">
+            <div class="container">
+
+                <div class="d-flex justify-content-between align-items-center">
+                    <h2>Portfolio</h2>
+                    <ol>
+                        <li><a href="../index.html">Home</a></li>
+                        <li>Portfolio</li>
+                    </ol>
+                </div>
+
+            </div>
+        </section><!-- End Breadcrumbs -->
+
+        <!-- ======= Portfolio Details Section ======= -->
+        <section class="portfolio-details">
+            <div class="container">
+                <div class="row gy-4">
+                    <div class="col-lg-4">
+                        <div class="portfolio-info">
+                            <h3><span data-i18n="details"></span></h3>
+                            <ul>
+                                <li><strong><span data-i18n="category"></span></strong>: <span
+                                        data-i18n="national"></span></li>
+                                <li><strong><span data-i18n="event"></span></strong>: Festa das Rosas</li>
+                                <li><strong><span data-i18n="date"></span></strong>: 11 Mai, 2024</li>
+                            </ul>
+                        </div>
+                        <div class="portfolio-description">
+                            <h2>Festa das Rosas - Vila Franca do Lima</h2>
+                            <p>
+                                <p>A Festa das Rosas em Vila Franca do Lima é um
+                                    evento tradicional que ocorre no segundo fim de semana de maio.
+                                    Vila Franca do Lima, localizada na região de Viana do Castelo, celebra essa festa,
+                                    que é considerada Património Cultural e Imaterial nacional.
+                                </p>
+                                <p>Além disso, durante a festividade, um dos pontos altos é o Desfile dos pesados Cestos
+                                    Floridos, feitos com folhas,
+                                    botões e pétalas de flores naturais (principalmente rosas), carregados à cabeça
+                                    pelas jovens mordomas da terra ao longo do desfile.
+                                </p>
+                                <p>As festividades decorrem de 10 a 13 de Maio.</p>
+
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-lg-8 align-items-center text-center">
+                        <div class="container portfolio-details  mb-5">
+                            <div class="row">
+                                <div class="col">
+                                    <div class="portfolio-details-slider swiper border border-info">
+                                        <div class="swiper-wrapper align-items-center text-center">
+
+                                            <div class="swiper-slide">
+                                                <div class="portfolio">
+                                                    <div class="portfolio-wrap">
+                                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1222.jpg"
+                                                            class="img-fluid" style="width: 70%;" alt="">
+                                                        <div class="portfolio-links">
+                                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1222.jpg"
+                                                                data-gallery="portfolioGallery"
+                                                                class="portfolio-lightbox" title="2024_05_11_1222"><i
+                                                                    class="bx bx-window-open"></i></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="swiper-slide">
+                                                <div class="portfolio">
+                                                    <div class="portfolio-wrap">
+                                                        <img src="../assets/img/portfolio/festa-das-rosas/Cartaz-FestadasRosas2024.jpg"
+                                                            class="img-fluid" style="width: 70%;" alt="">
+                                                        <div class="portfolio-links">
+                                                            <a href="../assets/img/portfolio/festa-das-rosas/Cartaz-FestadasRosas2024.jpg"
+                                                                data-gallery="portfolioGallery"
+                                                                class="portfolio-lightbox" title="Cartaz da Festa"><i
+                                                                    class="bx bx-window-open"></i></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                        <div class="swiper-pagination"></div>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section><!-- End Portfolio Details Section -->
+
+        <div class="parallax-apulia">
+            <div style="height: 500px;" class="text-center align-items-center d-flex">
+                <h2 class="justify-content-center align-self-center" style="color: white; margin-left: auto;
+            margin-right: auto; text-shadow: 1px 1px 2px black;"> <b><i>Praia da Apúlia</i></b> </h2>
+            </div>
+        </div>
+
+
+        <div class="container portfolio-details  mb-5">
+            <div class="row">
+                <div class="col-lg-8">
+                    <div class="portfolio-details-slider swiper border border-info">
+                        <div class="swiper-wrapper align-items-center text-center">
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1076.jpg"
+                                            class="img-fluid" style="width: 70%;" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1076.jpg"
+                                                data-gallery="portfolioGallery-1" class="portfolio-lightbox"
+                                                title="2024_05_11_1076"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1094.jpg"
+                                            class="img-fluid" style="width: 70%;" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1094.jpg"
+                                                data-gallery="portfolioGallery-1" class="portfolio-lightbox"
+                                                title="2024_05_11_1094"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1120.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1120.jpg"
+                                                data-gallery="portfolioGallery-1" class="portfolio-lightbox"
+                                                title="2024_05_11_1120"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/praia-apulia.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/praia-apulia.jpg"
+                                                data-gallery="portfolioGallery-1" class="portfolio-lightbox"
+                                                title="O mar e a terra na Apúlia"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-pagination"></div>
+                    </div>
+
+                </div>
+
+                <div class="col-lg-4">
+                    <p>
+                        O dia começou com uma visita à praia da Apúlia. Conhecida pelos moinhos que lá se encontram.
+                    </p>
+
+                </div>
+            </div>
+        </div>
+
+
+
+
+        <div class="container portfolio-details">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="portfolio-details-slider swiper border border-info">
+                        <div class="swiper-wrapper align-items-center text-center">
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1127.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1127.jpg"
+                                                data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                title="2024_05_11_1127"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1143.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1143.jpg"
+                                                data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                title="2024_05_11_1143"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1156.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1156.jpg"
+                                                data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                title="2024_05_11_1156"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1137.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1137.jpg"
+                                                data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                title="2024_05_11_1137"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1136.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1136.jpg"
+                                                data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                title="2024_05_11_1136"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1159.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1159.jpg"
+                                                data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                title="2024_05_11_1159"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-pagination"></div>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+
+
+        <div class="container portfolio-details mb-5">
+            <div class="row">
+                <div class="col-lg-4">
+                    <p>
+                        Almoço no bar/restaurante <i>Reguenga</i>
+                    </p>
+
+                </div>
+
+                <div class="col-lg-8 align-items-center text-center">
+                    <img src="../assets/img/portfolio/festa-das-rosas/almoco.jpg" class="img-fluid " alt="">
+                </div>
+            </div>
+        </div>
+
+        <div class="container-fluid text-center">
+            <div class="row">
+                <h4>Vila Franca</h4>
+            </div>
+        </div>
+
+        <div class="container portfolio-details">
+            <div class="row">
+                <div class="col-lg-8">
+                    <div class="portfolio-details-slider swiper border border-info">
+                        <div class="swiper-wrapper align-items-center text-center">
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1215.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1215.jpg"
+                                                data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                title="2024_05_11_1215"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1164.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1164.jpg"
+                                                data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                title="2024_05_11_1164"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1168.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1168.jpg"
+                                                data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                title="2024_05_11_1168"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1200.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1200.jpg"
+                                                data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                title="2024_05_11_1200"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1202.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1202.jpg"
+                                                data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                title="2024_05_11_1202"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1209.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1209.jpg"
+                                                data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                title="2024_05_11_1209"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                        <div class="swiper-pagination"></div>
+                    </div>
+
+                </div>
+
+                <div class="col-lg-4">
+                    <p>
+                        Tarde por Vila Franca, junto da Igreja Paroquial, onde estava montada a feira e se podia visitar
+                        a casa do povo com uma exposição de artesanato.
+                    </p>
+
+                </div>
+            </div>
+        </div>
+
+
+        <div class="container portfolio-details">
+            <div class="row">
+                <div class="col-lg-4">
+                    <p>
+                        Várias bandas locais tocam arranjos no recinto.
+                    </p>
+
+                </div>
+
+                <div class="col-lg-8">
+                    <div class="portfolio-details-slider swiper border border-info">
+                        <div class="swiper-wrapper align-items-center text-center">
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1172.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1172.jpg"
+                                                data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                title="2024_05_11_1172"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1175.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1175.jpg"
+                                                data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                title="2024_05_11_1175"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1186.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1186.jpg"
+                                                data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                title="2024_05_11_1186"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1194.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1194.jpg"
+                                                data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                title="2024_05_11_1194"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <video class="img-fluid">
+                                            <source src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1184.mp4"
+                                                type="video/mp4">
+                                        </video>
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1184.mp4"
+                                                data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                title="Banda a tocar"><i class="bx bx-play"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1263.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1263.jpg"
+                                                data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                title="2024_05_11_1263"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1269.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1269.jpg"
+                                                data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                title="2024_05_11_1269"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1272.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1272.jpg"
+                                                data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                title="2024_05_11_1272"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1321.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1321.jpg"
+                                                data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                title="2024_05_11_1321"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+
+                        </div>
+                        <div class="swiper-pagination"></div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="container portfolio-details">
+            <div class="row">
+                <div class="col-lg-8">
+                    <div class="portfolio-details-slider swiper border border-info">
+                        <div class="swiper-wrapper align-items-center text-center">
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1225.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1225.jpg"
+                                                data-gallery="portfolioGallery-5" class="portfolio-lightbox"
+                                                title="2024_05_11_1225"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1229.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1229.jpg"
+                                                data-gallery="portfolioGallery-5" class="portfolio-lightbox"
+                                                title="2024_05_11_1229"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1230.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1230.jpg"
+                                                data-gallery="portfolioGallery-5" class="portfolio-lightbox"
+                                                title="2024_05_11_1230"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1236.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1236.jpg"
+                                                data-gallery="portfolioGallery-5" class="portfolio-lightbox"
+                                                title="2024_05_11_1236"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1243.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1243.jpg"
+                                                data-gallery="portfolioGallery-5" class="portfolio-lightbox"
+                                                title="2024_05_11_1243"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1247.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1247.jpg"
+                                                data-gallery="portfolioGallery-5" class="portfolio-lightbox"
+                                                title="2024_05_11_1247"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1249.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1249.jpg"
+                                                data-gallery="portfolioGallery-5" class="portfolio-lightbox"
+                                                title="2024_05_11_1249"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1258.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1258.jpg"
+                                                data-gallery="portfolioGallery-5" class="portfolio-lightbox"
+                                                title="2024_05_11_1258"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                        </div>
+                        <div class="swiper-pagination"></div>
+                    </div>
+
+                </div>
+
+                <div class="col-lg-4">
+                    <p>
+                        Exposição <i>Artesanato com tradição</i>
+                    </p>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="container portfolio-details mb-5">
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="portfolio-details-slider swiper border border-info">
+                        <div class="swiper-wrapper align-items-center text-center">
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1245.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1245.jpg"
+                                                data-gallery="portfolioGallery-6" class="portfolio-lightbox"
+                                                title="2024_05_11_1245"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1239.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1239.jpg"
+                                                data-gallery="portfolioGallery-6" class="portfolio-lightbox"
+                                                title="2024_05_11_1239"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1240.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1240.jpg"
+                                                data-gallery="portfolioGallery-6" class="portfolio-lightbox"
+                                                title="2024_05_11_1240"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1254.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1254.jpg"
+                                                data-gallery="portfolioGallery-6" class="portfolio-lightbox"
+                                                title="2024_05_11_1254"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1253.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1253.jpg"
+                                                data-gallery="portfolioGallery-6" class="portfolio-lightbox"
+                                                title="2024_05_11_1253"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1257.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1257.jpg"
+                                                data-gallery="portfolioGallery-6" class="portfolio-lightbox"
+                                                title="2024_05_11_1257"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                        <div class="swiper-pagination"></div>
+                    </div>
+
+                </div>
+
+                <div class="col-lg-6">
+                    <div class="portfolio-details-slider swiper border border-info">
+                        <div class="swiper-wrapper align-items-center text-center">
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1323.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1323.jpg"
+                                                data-gallery="portfolioGallery-7" class="portfolio-lightbox"
+                                                title="2024_05_11_1323"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1325.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1325.jpg"
+                                                data-gallery="portfolioGallery-7" class="portfolio-lightbox"
+                                                title="2024_05_11_1325"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1326.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1326.jpg"
+                                                data-gallery="portfolioGallery-7" class="portfolio-lightbox"
+                                                title="2024_05_11_1326"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1327.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1327.jpg"
+                                                data-gallery="portfolioGallery-7" class="portfolio-lightbox"
+                                                title="2024_05_11_1327"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1328.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1328.jpg"
+                                                data-gallery="portfolioGallery-7" class="portfolio-lightbox"
+                                                title="2024_05_11_1328"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <video class="img-fluid" style="width: 80%;">
+                                            <source
+                                                src="../assets/img/portfolio/festa-das-rosas/VID_20240511_161800.mp4"
+                                                type="video/mp4">
+                                        </video>
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/VID_20240511_161800.mp4"
+                                                data-gallery="portfolioGallery-7" class="portfolio-lightbox"
+                                                title="Máquina de tear manual"><i class="bx bx-play"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                        <div class="swiper-pagination"></div>
+                    </div>
+
+                </div>
+
+
+            </div>
+        </div>
+
+        <div class="parallax-igreja">
+            <div style="height: 500px;" class="text-center align-items-center d-flex">
+                <h2 class="justify-content-center align-self-center" style="color: white; margin-left: auto;
+            margin-right: auto; text-shadow: 1px 1px 2px black;"> <b><i>Igreja Paroquial</i></b> </h2>
+            </div>
+        </div>
+
+
+
+        <div class="container portfolio-details">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="portfolio-details-slider swiper border border-info">
+                        <div class="swiper-wrapper align-items-center text-center">
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1275.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1275.jpg"
+                                                data-gallery="portfolioGallery-8" class="portfolio-lightbox"
+                                                title="2024_05_11_1275"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1280.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1280.jpg"
+                                                data-gallery="portfolioGallery-8" class="portfolio-lightbox"
+                                                title="2024_05_11_1280"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1295.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1295.jpg"
+                                                data-gallery="portfolioGallery-8" class="portfolio-lightbox"
+                                                title="2024_05_11_1295"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1301.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1301.jpg"
+                                                data-gallery="portfolioGallery-8" class="portfolio-lightbox"
+                                                title="2024_05_11_1301"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1303.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1303.jpg"
+                                                data-gallery="portfolioGallery-8" class="portfolio-lightbox"
+                                                title="2024_05_11_1303"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1310.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1310.jpg"
+                                                data-gallery="portfolioGallery-8" class="portfolio-lightbox"
+                                                title="2024_05_11_1310"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                        <div class="swiper-pagination"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="container portfolio-details mb-5">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="portfolio-details-slider swiper border border-info">
+                        <div class="swiper-wrapper align-items-center text-center">
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1277.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1277.jpg"
+                                                data-gallery="portfolioGallery-9" class="portfolio-lightbox"
+                                                title="2024_05_11_1277"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1279.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1279.jpg"
+                                                data-gallery="portfolioGallery-9" class="portfolio-lightbox"
+                                                title="2024_05_11_1279"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1281.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1281.jpg"
+                                                data-gallery="portfolioGallery-9" class="portfolio-lightbox"
+                                                title="2024_05_11_1281"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1283.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1283.jpg"
+                                                data-gallery="portfolioGallery-9" class="portfolio-lightbox"
+                                                title="2024_05_11_1283"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1284.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1284.jpg"
+                                                data-gallery="portfolioGallery-9" class="portfolio-lightbox"
+                                                title="2024_05_11_1284"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1285.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1285.jpg"
+                                                data-gallery="portfolioGallery-9" class="portfolio-lightbox"
+                                                title="2024_05_11_1285"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1286.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1286.jpg"
+                                                data-gallery="portfolioGallery-9" class="portfolio-lightbox"
+                                                title="2024_05_11_1286"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1287.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1287.jpg"
+                                                data-gallery="portfolioGallery-9" class="portfolio-lightbox"
+                                                title="2024_05_11_1287"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1288.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1288.jpg"
+                                                data-gallery="portfolioGallery-9" class="portfolio-lightbox"
+                                                title="2024_05_11_1288"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1289.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1289.jpg"
+                                                data-gallery="portfolioGallery-9" class="portfolio-lightbox"
+                                                title="2024_05_11_1289"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1290.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1290.jpg"
+                                                data-gallery="portfolioGallery-9" class="portfolio-lightbox"
+                                                title="2024_05_11_1290"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1292.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1292.jpg"
+                                                data-gallery="portfolioGallery-9" class="portfolio-lightbox"
+                                                title="2024_05_11_1292"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1302.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1302.jpg"
+                                                data-gallery="portfolioGallery-9" class="portfolio-lightbox"
+                                                title="2024_05_11_1302"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                        <div class="swiper-pagination"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="parallax-desfile">
+            <div style="height: 500px;" class="text-center align-items-center d-flex">
+                <h2 class="justify-content-center align-self-center" style="color: white; margin-left: auto;
+            margin-right: auto; text-shadow: 1px 1px 2px black;"> <b><i>Tradicional Cortejo das Rosas Votivas</i></b>
+                </h2>
+            </div>
+        </div>
+
+
+
+        <div class="container portfolio-details p-5">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="portfolio-details-slider swiper border border-info">
+                        <div class="swiper-wrapper align-items-center text-center">
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1342.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1342.jpg"
+                                                data-gallery="portfolioGallery-10" class="portfolio-lightbox"
+                                                title="2024_05_11_1342"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1348.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1348.jpg"
+                                                data-gallery="portfolioGallery-10" class="portfolio-lightbox"
+                                                title="2024_05_11_1348"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                        <div class="swiper-pagination"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="container portfolio-details p-5">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="portfolio-details-slider swiper border border-success">
+                        <div class="swiper-wrapper align-items-center text-center">
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1350.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1350.jpg"
+                                                data-gallery="portfolioGallery-11" class="portfolio-lightbox"
+                                                title="2024_05_11_1350"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1358.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1358.jpg"
+                                                data-gallery="portfolioGallery-11" class="portfolio-lightbox"
+                                                title="2024_05_11_1358"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1359.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1359.jpg"
+                                                data-gallery="portfolioGallery-11" class="portfolio-lightbox"
+                                                title="2024_05_11_1359"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                        <div class="swiper-pagination"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="container portfolio-details p-5">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="portfolio-details-slider swiper border border-danger">
+                        <div class="swiper-wrapper align-items-center text-center">
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1362.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1362.jpg"
+                                                data-gallery="portfolioGallery-12" class="portfolio-lightbox"
+                                                title="2024_05_11_1362"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1363.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1363.jpg"
+                                                data-gallery="portfolioGallery-12" class="portfolio-lightbox"
+                                                title="2024_05_11_1363"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1365.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1365.jpg"
+                                                data-gallery="portfolioGallery-12" class="portfolio-lightbox"
+                                                title="2024_05_11_1365"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1367.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1367.jpg"
+                                                data-gallery="portfolioGallery-12" class="portfolio-lightbox"
+                                                title="2024_05_11_1367"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1369.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1369.jpg"
+                                                data-gallery="portfolioGallery-12" class="portfolio-lightbox"
+                                                title="2024_05_11_1369"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1371.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1371.jpg"
+                                                data-gallery="portfolioGallery-12" class="portfolio-lightbox"
+                                                title="2024_05_11_1371"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                        <div class="swiper-pagination"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="container portfolio-details p-5">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="portfolio-details-slider swiper border border-primary">
+                        <div class="swiper-wrapper align-items-center text-center">
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1373.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1373.jpg"
+                                                data-gallery="portfolioGallery-13" class="portfolio-lightbox"
+                                                title="2024_05_11_1373"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1379.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1379.jpg"
+                                                data-gallery="portfolioGallery-13" class="portfolio-lightbox"
+                                                title="2024_05_11_1379"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1380.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1380.jpg"
+                                                data-gallery="portfolioGallery-13" class="portfolio-lightbox"
+                                                title="2024_05_11_1380"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1381.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1381.jpg"
+                                                data-gallery="portfolioGallery-13" class="portfolio-lightbox"
+                                                title="2024_05_11_1381"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1386.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1386.jpg"
+                                                data-gallery="portfolioGallery-13" class="portfolio-lightbox"
+                                                title="2024_05_11_1386"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1388.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1388.jpg"
+                                                data-gallery="portfolioGallery-13" class="portfolio-lightbox"
+                                                title="2024_05_11_1388"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                        <div class="swiper-pagination"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="container portfolio-details p-5">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="portfolio-details-slider swiper border border-warning">
+                        <div class="swiper-wrapper align-items-center text-center">
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1391.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1391.jpg"
+                                                data-gallery="portfolioGallery-14" class="portfolio-lightbox"
+                                                title="2024_05_11_1391"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1396.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1396.jpg"
+                                                data-gallery="portfolioGallery-14" class="portfolio-lightbox"
+                                                title="2024_05_11_1396"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1398.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1398.jpg"
+                                                data-gallery="portfolioGallery-14" class="portfolio-lightbox"
+                                                title="2024_05_11_1398"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1399.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1399.jpg"
+                                                data-gallery="portfolioGallery-14" class="portfolio-lightbox"
+                                                title="2024_05_11_1399"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1400.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1400.jpg"
+                                                data-gallery="portfolioGallery-14" class="portfolio-lightbox"
+                                                title="2024_05_11_1400"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1404.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1404.jpg"
+                                                data-gallery="portfolioGallery-14" class="portfolio-lightbox"
+                                                title="2024_05_11_1404"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                        <div class="swiper-pagination"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="container portfolio-details p-5">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="portfolio-details-slider swiper border border-yellow">
+                        <div class="swiper-wrapper align-items-center text-center">
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1426.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1426.jpg"
+                                                data-gallery="portfolioGallery-15" class="portfolio-lightbox"
+                                                title="2024_05_11_1426"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1430.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1430.jpg"
+                                                data-gallery="portfolioGallery-15" class="portfolio-lightbox"
+                                                title="2024_05_11_1430"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1433.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1433.jpg"
+                                                data-gallery="portfolioGallery-15" class="portfolio-lightbox"
+                                                title="2024_05_11_1433"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1435.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1435.jpg"
+                                                data-gallery="portfolioGallery-15" class="portfolio-lightbox"
+                                                title="2024_05_11_1435"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1437.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1437.jpg"
+                                                data-gallery="portfolioGallery-15" class="portfolio-lightbox"
+                                                title="2024_05_11_1437"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1442.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1442.jpg"
+                                                data-gallery="portfolioGallery-15" class="portfolio-lightbox"
+                                                title="2024_05_11_1442"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                        <div class="swiper-pagination"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="container-fluid portfolio-details">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="portfolio-details-slider swiper border border-warning"
+                        style="padding: 0; border-width: 5px!important;">
+                        <div class="swiper-wrapper align-items-center text-center">
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1452.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1452.jpg"
+                                                data-gallery="portfolioGallery-16" class="portfolio-lightbox"
+                                                title="2024_05_11_1452"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="container portfolio-details p-5">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="portfolio-details-slider swiper border border-info">
+                        <div class="swiper-wrapper align-items-center text-center">
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1460.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1460.jpg"
+                                                data-gallery="portfolioGallery-17" class="portfolio-lightbox"
+                                                title="2024_05_11_1460"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1474.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1474.jpg"
+                                                data-gallery="portfolioGallery-17" class="portfolio-lightbox"
+                                                title="2024_05_11_1474"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1476.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1476.jpg"
+                                                data-gallery="portfolioGallery-17" class="portfolio-lightbox"
+                                                title="2024_05_11_1476"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                        <div class="swiper-pagination"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="container-fluid portfolio-details">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="portfolio-details-slider swiper border border-warning"
+                        style="padding: 0; border-width: 5px!important;">
+                        <div class="swiper-wrapper align-items-center text-center">
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1466.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1466.jpg"
+                                                data-gallery="portfolioGallery-18" class="portfolio-lightbox"
+                                                title="2024_05_11_1466"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="container portfolio-details p-5">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="portfolio-details-slider swiper border border-info">
+                        <div class="swiper-wrapper align-items-center text-center">
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1471.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1471.jpg"
+                                                data-gallery="portfolioGallery-19" class="portfolio-lightbox"
+                                                title="2024_05_11_1471"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1477.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1477.jpg"
+                                                data-gallery="portfolioGallery-19" class="portfolio-lightbox"
+                                                title="2024_05_11_1477"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1480.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1480.jpg"
+                                                data-gallery="portfolioGallery-19" class="portfolio-lightbox"
+                                                title="2024_05_11_1480"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1482.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1482.jpg"
+                                                data-gallery="portfolioGallery-19" class="portfolio-lightbox"
+                                                title="2024_05_11_1482"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1485.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1485.jpg"
+                                                data-gallery="portfolioGallery-19" class="portfolio-lightbox"
+                                                title="2024_05_11_1485"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1488.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1488.jpg"
+                                                data-gallery="portfolioGallery-19" class="portfolio-lightbox"
+                                                title="2024_05_11_1488"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1489.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1489.jpg"
+                                                data-gallery="portfolioGallery-19" class="portfolio-lightbox"
+                                                title="2024_05_11_1489"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                        <div class="swiper-pagination"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="container-fluid portfolio-details">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="portfolio-details-slider swiper border border-warning"
+                        style="padding: 0; border-width: 5px!important;">
+                        <div class="swiper-wrapper align-items-center text-center">
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1529.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1529.jpg"
+                                                data-gallery="portfolioGallery-20" class="portfolio-lightbox"
+                                                title="2024_05_11_1529"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="container portfolio-details p-5">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="portfolio-details-slider swiper border border-info">
+                        <div class="swiper-wrapper align-items-center text-center">
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1561.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1561.jpg"
+                                                data-gallery="portfolioGallery-21" class="portfolio-lightbox"
+                                                title="2024_05_11_1561"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1562.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1562.jpg"
+                                                data-gallery="portfolioGallery-21" class="portfolio-lightbox"
+                                                title="2024_05_11_1562"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1565.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1565.jpg"
+                                                data-gallery="portfolioGallery-21" class="portfolio-lightbox"
+                                                title="2024_05_11_1565"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1567.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1567.jpg"
+                                                data-gallery="portfolioGallery-21" class="portfolio-lightbox"
+                                                title="2024_05_11_1567"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1571.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1571.jpg"
+                                                data-gallery="portfolioGallery-21" class="portfolio-lightbox"
+                                                title="2024_05_11_1571"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1578.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1578.jpg"
+                                                data-gallery="portfolioGallery-21" class="portfolio-lightbox"
+                                                title="2024_05_11_1578"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1584.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1584.jpg"
+                                                data-gallery="portfolioGallery-21" class="portfolio-lightbox"
+                                                title="2024_05_11_1584"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1587.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1587.jpg"
+                                                data-gallery="portfolioGallery-21" class="portfolio-lightbox"
+                                                title="2024_05_11_1587"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1591.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1591.jpg"
+                                                data-gallery="portfolioGallery-21" class="portfolio-lightbox"
+                                                title="2024_05_11_1591"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1516.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1516.jpg"
+                                                data-gallery="portfolioGallery-21" class="portfolio-lightbox"
+                                                title="2024_05_11_1516"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                        <div class="swiper-pagination"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="container-fluid portfolio-details">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="portfolio-details-slider swiper border border-warning"
+                        style="padding: 0; border-width: 5px!important;">
+                        <div class="swiper-wrapper align-items-center text-center">
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1595.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1595.jpg"
+                                                data-gallery="portfolioGallery-22" class="portfolio-lightbox"
+                                                title="2024_05_11_1595"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="container portfolio-details mb-5 p-5">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="portfolio-details-slider swiper border border-info">
+                        <div class="swiper-wrapper align-items-center text-center">
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1602.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1602.jpg"
+                                                data-gallery="portfolioGallery-22" class="portfolio-lightbox"
+                                                title="2024_05_11_1602"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1603.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1603.jpg"
+                                                data-gallery="portfolioGallery-22" class="portfolio-lightbox"
+                                                title="2024_05_11_1603"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1607.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1607.jpg"
+                                                data-gallery="portfolioGallery-22" class="portfolio-lightbox"
+                                                title="2024_05_11_1607"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1621.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1621.jpg"
+                                                data-gallery="portfolioGallery-22" class="portfolio-lightbox"
+                                                title="2024_05_11_1621"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1679.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1679.jpg"
+                                                data-gallery="portfolioGallery-22" class="portfolio-lightbox"
+                                                title="2024_05_11_1679"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1686.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1686.jpg"
+                                                data-gallery="portfolioGallery-22" class="portfolio-lightbox"
+                                                title="2024_05_11_1686"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1693.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1693.jpg"
+                                                data-gallery="portfolioGallery-22" class="portfolio-lightbox"
+                                                title="2024_05_11_1693"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1695.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1695.jpg"
+                                                data-gallery="portfolioGallery-22" class="portfolio-lightbox"
+                                                title="2024_05_11_1695"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1697.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1697.jpg"
+                                                data-gallery="portfolioGallery-22" class="portfolio-lightbox"
+                                                title="2024_05_11_1697"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1704.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1704.jpg"
+                                                data-gallery="portfolioGallery-22" class="portfolio-lightbox"
+                                                title="2024_05_11_1704"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1743.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1743.jpg"
+                                                data-gallery="portfolioGallery-22" class="portfolio-lightbox"
+                                                title="2024_05_11_1743"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1757.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1757.jpg"
+                                                data-gallery="portfolioGallery-22" class="portfolio-lightbox"
+                                                title="2024_05_11_1757"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1761.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1761.jpg"
+                                                data-gallery="portfolioGallery-22" class="portfolio-lightbox"
+                                                title="2024_05_11_1761"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1786.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1786.jpg"
+                                                data-gallery="portfolioGallery-22" class="portfolio-lightbox"
+                                                title="2024_05_11_1786"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/festa-das-rosas/2024_05_11_1790.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/festa-das-rosas/2024_05_11_1790.jpg"
+                                                data-gallery="portfolioGallery-22" class="portfolio-lightbox"
+                                                title="2024_05_11_1790"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                        <div class="swiper-pagination"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <p class="p-5"><i>Viagem com Reserva D'Emoções</i></p>
+
+    </main><!-- End #main -->
+
+    <!-- ======= Footer ======= -->
+    <footer id="footer">
+        <div class="container">
+            <div class="copyright">
+                &copy; Copyright <strong><span>iPortfolio</span>&nbsp;& <br> Tiago 2024</strong>
+            </div>
+            <div class="credits">
+                <!-- All the links in the footer should remain intact. -->
+                <!-- You can delete the links only if you purchased the pro version. -->
+                <!-- Licensing information: https://bootstrapmade.com/license/ -->
+                <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/ -->
+                Original design by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+            </div>
+        </div>
+    </footer><!-- End  Footer -->
+
+    <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
+            class="bi bi-arrow-up-short"></i></a>
+
+    <!-- Vendor JS Files -->
+    <script src="../assets/vendor/purecounter/purecounter_vanilla.js"></script>
+    <script src="../assets/vendor/aos/aos.js"></script>
+    <script src="../assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="../assets/vendor/glightbox/js/glightbox.min.js"></script>
+    <script src="../assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+    <script src="../assets/vendor/swiper/swiper-bundle.min.js"></script>
+    <script src="../assets/vendor/typed.js/typed.umd.js"></script>
+    <script src="../assets/vendor/waypoints/noframework.waypoints.js"></script>
+    <script src="../assets/vendor/php-email-form/validate.js"></script>
+
+    <!-- Template Main JS File -->
+    <script src="../assets/js/main.js"></script>
+</body>
+
+</html>

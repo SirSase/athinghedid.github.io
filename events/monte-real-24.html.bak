@@ -1,0 +1,3324 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-TT3822KLT9"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'G-TT3822KLT9');
+    </script>
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta name="author" content="Tiago Batista">
+    <title>Portfolio Details - Base Aberta - Monte Real by Tiago Batista</title>
+    <meta content="Monte Real, Base Aberta" name="description">
+    <meta content="Monte real, leiria, base aberta, base aerea n 5, avioes, caças, engenharia, batistmos voo, voo, tiago batista" name="keywords">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+
+    <!-- Favicons -->
+    <link href="../assets/img/favicon.png" rel="icon">
+    <link href="../assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+    <!-- Google Fonts -->
+    <link
+        href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
+        rel="stylesheet">
+
+    <!-- Vendor CSS Files -->
+    <link href="../assets/vendor/aos/aos.css" rel="stylesheet">
+    <link href="../assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="../assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+    <link href="../assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+    <link href="../assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+    <link href="../assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+
+    <!-- Template Main CSS File -->
+    <link href="../assets/css/style.css" rel="stylesheet">
+    <link href="../assets/css/custom.css" rel="stylesheet">
+
+    <!-- Custom JS File -->
+    <script src="../assets/js/custom.js"></script>
+
+    <!-- World map-->
+    <script src="../worldmap/mapdata.js"></script>
+    <script src="../worldmap/worldmap.js"></script>
+
+    <!-- =======================================================
+  * Template Name: iPortfolio
+  * Updated: Jan 29 2024 with Bootstrap v5.3.2
+  * Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
+</head>
+
+<body>
+
+    <!-- ======= Mobile nav toggle button ======= -->
+    <i class="bi bi-list mobile-nav-toggle d-xl-none"></i>
+
+    <!-- ======= Header ======= -->
+    <header id="header">
+        <div class="d-flex flex-column">
+
+            <div class="profile">
+        <img src="../assets/img/profile-img.jpg" alt="" class="img-fluid rounded-circle">
+        <h1 class="text-light"><a href="../index.html">Tiago B.</a></h1>
+        <div class="social-links mt-3 text-center">
+          <a href="https://www.goodreads.com/user/show/174311663-tiago-b" target="_blank" class="goodreads"><i
+              class="icon-goodreads"></i></a>
+          <a href="https://www.instagram.com/tiago.batista_athinghedid" target="_blank" class="instagram"><i
+              class="bx bxl-instagram"></i></a>
+          <a href="https://tbfotos.photohawk.com" target="_blank" class="" style="background: transparent;"><img src="../assets/img/phawk-logo.jpg" style="width: 35px; margin-top: 3px;"/></a>
+        </div>
+      </div>
+
+            <nav id="navbar" class="nav-menu navbar">
+                <ul>
+                    <li><a href="../index.html" class="nav-link scrollto active"><i class="bx bx-home"></i>
+                            <span>Home</span></a>
+                    </li>
+                    <li>
+                        <ul>
+                            <li id="langPtOpt" style="display: none;"><a href="#" onclick="changeLanguage('pt')"><img
+                                        src="../assets/img/pt.svg" width="35px"></a>
+                            </li>
+                            <li id="langEnOpt" style="display: none;"><a href="#" onclick="changeLanguage('en')"><img
+                                        src="../assets/img/gb.svg" width="35px"></a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </nav><!-- .nav-menu -->
+        </div>
+    </header><!-- End Header -->
+
+    <main id="main">
+
+        <!-- ======= Breadcrumbs ======= -->
+        <section id="breadcrumbs" class="breadcrumbs">
+            <div class="container">
+
+                <div class="d-flex justify-content-between align-items-center">
+                    <h2>Portfolio</h2>
+                    <ol>
+                        <li><a href="../index.html">Home</a></li>
+                        <li>Portfolio</li>
+                    </ol>
+                </div>
+
+            </div>
+        </section><!-- End Breadcrumbs -->
+
+        <!-- ======= Portfolio Details Section ======= -->
+        <section class="portfolio-details">
+            <div class="container">
+                <div class="row gy-4">
+                    <div class="col-lg-4">
+                        <div class="portfolio-info">
+                            <h3><span data-i18n="details"></span></h3>
+                            <ul>
+                                <li><strong><span data-i18n="category"></span></strong>: <span
+                                        data-i18n="national"></span></li>
+                                <li><strong><span data-i18n="event"></span></strong>: Base aérea nº. 5 - Dia aberto, Monte Real</li>
+                                <li><strong><span data-i18n="date"></span></strong>: 15 Set, 2024</li>
+                                <li><strong>Website:</strong> <a href="https://www.emfa.pt/unidade-18-base-aerea-n-5" target="_blank">Base Aérea Nº. 5</a></li>
+                            </ul>
+                        </div>
+                        <div class="portfolio-description">
+                            <h2>Base Aérea Nº. 5</h2>
+                            <p>
+                                <i>
+                                    <b>Missão</b>
+                                    <br>
+                                    <br>
+                                    Garantir a prontidão das Unidades Aéreas e o apoio logístico-administrativo de unidades e órgãos nela sediados, bem como a segurança interna e a defesa imediata.
+                                    <br>
+                                    <br>
+                                    Competências
+                                    <br>
+                                    <br>
+                                    <b>a)</b> Garantir a prontidão das Unidades Aéreas atribuídas;
+                                    <br>
+                                    <b>b)</b> Garantir a exploração dos serviços de aeródromo e de rádio ajudas;
+                                    <br>
+                                    <b>c)</b> Executar as tarefas logísticas e administrativas de apoio geral;
+                                    <br>
+                                    <b>d)</b> Garantir a segurança militar e a defesa imediata da área onde se encontra implantada e de outros pontos sob a sua jurisdição.
+                                    
+                                </i>
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-lg-8 align-items-center text-center">
+                        <div class="container portfolio-details mb-5">
+                            <div class="row">
+                                <div class="col">
+                                    <div class="portfolio-details-slider swiper border border-info">
+                                        <div class="swiper-wrapper align-items-center text-center">
+                                            <div class="swiper-slide">
+                                                <div class="portfolio">
+                                                    <div class="portfolio-wrap">
+                                                        <img src="../assets/img/portfolio/mreal/IMG_7165.jpg"
+                                                            class="img-fluid" alt="">
+                                                        <div class="portfolio-links">
+                                                            <a href="../assets/img/portfolio/mreal/IMG_7165.jpg"
+                                                                data-gallery="portfolioGallery"
+                                                                class="portfolio-lightbox" title="IMG_7165"><i
+                                                                    class="bx bx-window-open"></i></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section><!-- End Portfolio Details Section -->
+
+        <div class="parallax-baseaerea">
+            <div style="height: 500px;" class="text-center align-items-center d-flex">
+                <h2 class="justify-content-center align-self-center" style="color: white; margin-left: auto;
+            margin-right: auto; text-shadow: 1px 1px 2px black;"> <b><i>A Base</i></b> </h2>
+            </div>
+        </div>
+
+        <div class="container-fluid">
+            <div class="row no-gutter">
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_7170.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_7170.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_7170"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_7181.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_7181.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_7181"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_7191.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_7191.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_7191"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_7199.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_7199.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_7199"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_7207.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_7207.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_7207"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_7209.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_7209.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_7209"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_7213.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_7213.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_7213"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_7215.jpg   "
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_7215.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_7215"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details mb-5">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_7223.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_7223.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_7223"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details mb-5">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_7470.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_7470.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_7470"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details mb-5">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_7477.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_7477.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_7477"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details mb-5">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_7580.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_7580.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_7580"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details mb-5">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_7584.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_7584.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_7584"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details mb-5">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_7586.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_7586.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_7586"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details mb-5">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_7598.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_7598.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_7598"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details mb-5">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_7605.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_7605.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_7605"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details mb-5">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_7616.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_7616.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_7616"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details mb-5">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_7619.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_7619.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_7619"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details mb-5">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_7625.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_7625.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_7625"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details mb-5">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_7645.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_7645.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_7645"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details mb-5">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_7647.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_7647.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_7647"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details mb-5">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_7656.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_7656.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_7656"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details mb-5">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_7663.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_7663.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_7663"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details mb-5">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_7884.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_7884.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_7884"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details mb-5">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_7887.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_7887.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_7887"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details mb-5">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_7890.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_7890.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_7890"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details mb-5">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_7896.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_7896.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_7896"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details mb-5">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_7902.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_7902.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_7902"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details mb-5">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_7908.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_7908.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_7908"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details mb-5">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_7916.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_7916.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_7916"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details mb-5">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_7929.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_7929.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_7929"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details mb-5">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_7932.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_7932.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_7932"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details mb-5">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_7949.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_7949.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_7949"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details mb-5">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_7956.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_7956.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_7956"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details mb-5">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_7960.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_7960.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_7960"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details mb-5">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_7966.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_7966.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_7966"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details mb-5">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_7984.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_7984.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_7984"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details mb-5">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_7982.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_7982.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_7982"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+
+
+            </div>
+        </div>
+
+        <div class="parallax-pista">
+            <div style="height: 500px;" class="text-center align-items-center d-flex">
+                <h2 class="justify-content-center align-self-center" style="color: white; margin-left: auto;
+            margin-right: auto; text-shadow: 1px 1px 2px black;"> <b><i>A pista</i></b> </h2>
+            </div>
+        </div>
+
+
+        <div class="container-fluid">
+            <div class="row no-gutter">
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_7404.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_7404.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_7404"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_7237.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_7237.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_7237"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_7346.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_7346.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_7346"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_7360.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_7360.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_7360"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_7371.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_7371.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_7371"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details mb-5">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_7397.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_7397.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_7397"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                
+
+            </div>
+        </div>
+
+        <div class="parallax-exposicoes">
+            <div style="height: 500px;" class="text-center align-items-center d-flex">
+                <h2 class="justify-content-center align-self-center" style="color: white; margin-left: auto;
+            margin-right: auto; text-shadow: 1px 1px 2px black;"> <b><i>As exposições</i></b> </h2>
+            </div>
+        </div>
+
+
+        <div class="container-fluid">
+            <div class="row no-gutter">
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_7685.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_7685.jpg"
+                                                        data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                        title="IMG_7685"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_7688.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_7688.jpg"
+                                                        data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                        title="IMG_7688"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_7691.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_7691.jpg"
+                                                        data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                        title="IMG_7691"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_7698.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_7698.jpg"
+                                                        data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                        title="IMG_7698"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details mb-5">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_7702.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_7702.jpg"
+                                                        data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                        title="IMG_7702"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details mb-5">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_7704.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_7704.jpg"
+                                                        data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                        title="IMG_7704"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details mb-5">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_7712.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_7712.jpg"
+                                                        data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                        title="IMG_7712"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details mb-5">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_7720.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_7720.jpg"
+                                                        data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                        title="IMG_7720"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details mb-5">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_7727.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_7727.jpg"
+                                                        data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                        title="IMG_7727"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details mb-5">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_7731.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_7731.jpg"
+                                                        data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                        title="IMG_7731"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details mb-5">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_7736.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_7736.jpg"
+                                                        data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                        title="IMG_7736"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details mb-5">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_7743.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_7743.jpg"
+                                                        data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                        title="IMG_7743"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details mb-5">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_7748.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_7748.jpg"
+                                                        data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                        title="IMG_7748"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details mb-5">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_7752.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_7752.jpg"
+                                                        data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                        title="IMG_7752"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details mb-5">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_7758.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_7758.jpg"
+                                                        data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                        title="IMG_7758"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details mb-5">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_7778.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_7778.jpg"
+                                                        data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                        title="IMG_7778"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details mb-5">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_7782.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_7782.jpg"
+                                                        data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                        title="IMG_7782"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details mb-5">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_7794.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_7794.jpg"
+                                                        data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                        title="IMG_7794"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details mb-5">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_7806.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_7806.jpg"
+                                                        data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                        title="IMG_7806"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details mb-5">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_7816.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_7816.jpg"
+                                                        data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                        title="IMG_7816"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details mb-5">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_7817.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_7817.jpg"
+                                                        data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                        title="IMG_7817"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details mb-5">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_7821.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_7821.jpg"
+                                                        data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                        title="IMG_7821"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+        <div class="parallax-cinotecnia">
+            <div style="height: 500px;" class="text-center align-items-center d-flex">
+                <h2 class="justify-content-center align-self-center" style="color: white; margin-left: auto;
+            margin-right: auto; text-shadow: 1px 1px 2px black;"> <b><i>Demo Cinotecnia</i></b> </h2>
+            </div>
+        </div>
+
+        <div class="container-fluid">
+            <div class="row no-gutter">
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_8033.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_8033.jpg"
+                                                        data-gallery="portfolioGallery-6" class="portfolio-lightbox"
+                                                        title="IMG_8033"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_8035.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_8035.jpg"
+                                                        data-gallery="portfolioGallery-6" class="portfolio-lightbox"
+                                                        title="IMG_8035"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_8040.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_8040.jpg"
+                                                        data-gallery="portfolioGallery-6" class="portfolio-lightbox"
+                                                        title="IMG_8040"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_8045.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_8045.jpg"
+                                                        data-gallery="portfolioGallery-6" class="portfolio-lightbox"
+                                                        title="IMG_8045"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_8052.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_8052.jpg"
+                                                        data-gallery="portfolioGallery-6" class="portfolio-lightbox"
+                                                        title="IMG_8052"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_8057.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_8057.jpg"
+                                                        data-gallery="portfolioGallery-6" class="portfolio-lightbox"
+                                                        title="IMG_8057"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_8083.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_8083.jpg"
+                                                        data-gallery="portfolioGallery-6" class="portfolio-lightbox"
+                                                        title="IMG_8083"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_8089.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_8089.jpg"
+                                                        data-gallery="portfolioGallery-6" class="portfolio-lightbox"
+                                                        title="IMG_8089"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_8104.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_8104.jpg"
+                                                        data-gallery="portfolioGallery-6" class="portfolio-lightbox"
+                                                        title="IMG_8104"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_8125.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_8125.jpg"
+                                                        data-gallery="portfolioGallery-6" class="portfolio-lightbox"
+                                                        title="IMG_8125"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_8129.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_8129.jpg"
+                                                        data-gallery="portfolioGallery-6" class="portfolio-lightbox"
+                                                        title="IMG_8129"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_8132.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_8132.jpg"
+                                                        data-gallery="portfolioGallery-6" class="portfolio-lightbox"
+                                                        title="IMG_8132"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_8142.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_8142.jpg"
+                                                        data-gallery="portfolioGallery-6" class="portfolio-lightbox"
+                                                        title="IMG_8142"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_8145.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_8145.jpg"
+                                                        data-gallery="portfolioGallery-6" class="portfolio-lightbox"
+                                                        title="IMG_8145"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_8155.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_8155.jpg"
+                                                        data-gallery="portfolioGallery-6" class="portfolio-lightbox"
+                                                        title="IMG_8155"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_8177.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_8177.jpg"
+                                                        data-gallery="portfolioGallery-6" class="portfolio-lightbox"
+                                                        title="IMG_8177"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_8184.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_8184.jpg"
+                                                        data-gallery="portfolioGallery-6" class="portfolio-lightbox"
+                                                        title="IMG_8184"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_8191.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_8191.jpg"
+                                                        data-gallery="portfolioGallery-6" class="portfolio-lightbox"
+                                                        title="IMG_8191"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_8200.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_8200.jpg"
+                                                        data-gallery="portfolioGallery-6" class="portfolio-lightbox"
+                                                        title="IMG_8200"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_8207.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_8207.jpg"
+                                                        data-gallery="portfolioGallery-6" class="portfolio-lightbox"
+                                                        title="IMG_8207"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_8222.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_8222.jpg"
+                                                        data-gallery="portfolioGallery-6" class="portfolio-lightbox"
+                                                        title="IMG_8222"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_8232.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_8232.jpg"
+                                                        data-gallery="portfolioGallery-6" class="portfolio-lightbox"
+                                                        title="IMG_8232"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_8233.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_8233.jpg"
+                                                        data-gallery="portfolioGallery-6" class="portfolio-lightbox"
+                                                        title="IMG_8233"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_8241.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_8241.jpg"
+                                                        data-gallery="portfolioGallery-6" class="portfolio-lightbox"
+                                                        title="IMG_8241"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_8250.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_8250.jpg"
+                                                        data-gallery="portfolioGallery-6" class="portfolio-lightbox"
+                                                        title="IMG_8250"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_8256.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_8256.jpg"
+                                                        data-gallery="portfolioGallery-6" class="portfolio-lightbox"
+                                                        title="IMG_8256"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_8268.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_8268.jpg"
+                                                        data-gallery="portfolioGallery-6" class="portfolio-lightbox"
+                                                        title="IMG_8268"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_8272.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_8272.jpg"
+                                                        data-gallery="portfolioGallery-6" class="portfolio-lightbox"
+                                                        title="IMG_8272"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_8277.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_8277.jpg"
+                                                        data-gallery="portfolioGallery-6" class="portfolio-lightbox"
+                                                        title="IMG_8277"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_8293.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_8293.jpg"
+                                                        data-gallery="portfolioGallery-6" class="portfolio-lightbox"
+                                                        title="IMG_8293"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_8299.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_8299.jpg"
+                                                        data-gallery="portfolioGallery-6" class="portfolio-lightbox"
+                                                        title="IMG_8299"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_8307.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_8307.jpg"
+                                                        data-gallery="portfolioGallery-6" class="portfolio-lightbox"
+                                                        title="IMG_8307"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_8313.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_8313.jpg"
+                                                        data-gallery="portfolioGallery-6" class="portfolio-lightbox"
+                                                        title="IMG_8313"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_8317.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_8317.jpg"
+                                                        data-gallery="portfolioGallery-6" class="portfolio-lightbox"
+                                                        title="IMG_8317"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_8319.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_8319.jpg"
+                                                        data-gallery="portfolioGallery-6" class="portfolio-lightbox"
+                                                        title="IMG_8319"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_8333.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_8333.jpg"
+                                                        data-gallery="portfolioGallery-6" class="portfolio-lightbox"
+                                                        title="IMG_8333"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details mb-5">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/IMG_8340.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/IMG_8340.jpg"
+                                                        data-gallery="portfolioGallery-6" class="portfolio-lightbox"
+                                                        title="IMG_8340"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+            </div>
+        </div>
+
+        <div class="parallax-kc-f16">
+            <div style="height: 500px;" class="text-center align-items-center d-flex">
+                <h2 class="justify-content-center align-self-center" style="color: white; margin-left: auto;
+            margin-right: auto; text-shadow: 1px 1px 2px black;"> <b><i>KC-390 Millenium & F-16</i></b> </h2>
+            </div>
+        </div>
+
+        <div class="container-fluid">
+            <div class="row no-gutter">
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/flight/IMG_7290.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/flight/IMG_7290.jpg"
+                                                        data-gallery="portfolioGallery-5" class="portfolio-lightbox"
+                                                        title="IMG_7290"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/flight/IMG_7291.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/flight/IMG_7291.jpg"
+                                                        data-gallery="portfolioGallery-5" class="portfolio-lightbox"
+                                                        title="IMG_7291"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/flight/IMG_7324.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/flight/IMG_7324.jpg"
+                                                        data-gallery="portfolioGallery-5" class="portfolio-lightbox"
+                                                        title="IMG_7324"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/flight/IMG_7333.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/flight/IMG_7333.jpg"
+                                                        data-gallery="portfolioGallery-5" class="portfolio-lightbox"
+                                                        title="IMG_7333"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/flight/IMG_8464.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/flight/IMG_8464.jpg"
+                                                        data-gallery="portfolioGallery-5" class="portfolio-lightbox"
+                                                        title="IMG_8464"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/flight/IMG_8468.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/flight/IMG_8468.jpg"
+                                                        data-gallery="portfolioGallery-5" class="portfolio-lightbox"
+                                                        title="IMG_8468"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/flight/IMG_7385.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/flight/IMG_7385.jpg"
+                                                        data-gallery="portfolioGallery-5" class="portfolio-lightbox"
+                                                        title="IMG_7385"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/flight/IMG_7391.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/flight/IMG_7391.jpg"
+                                                        data-gallery="portfolioGallery-5" class="portfolio-lightbox"
+                                                        title="IMG_7391"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/flight/IMG_7393.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/flight/IMG_7393.jpg"
+                                                        data-gallery="portfolioGallery-5" class="portfolio-lightbox"
+                                                        title="IMG_7393"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/flight/IMG_7281.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/flight/IMG_7281.jpg"
+                                                        data-gallery="portfolioGallery-5" class="portfolio-lightbox"
+                                                        title="IMG_7281"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/flight/IMG_7566.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/flight/IMG_7566.jpg"
+                                                        data-gallery="portfolioGallery-5" class="portfolio-lightbox"
+                                                        title="IMG_7566"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/flight/IMG_7244.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/flight/IMG_7244.jpg"
+                                                        data-gallery="portfolioGallery-5" class="portfolio-lightbox"
+                                                        title="IMG_7244"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/flight/IMG_7259.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/flight/IMG_7259.jpg"
+                                                        data-gallery="portfolioGallery-5" class="portfolio-lightbox"
+                                                        title="IMG_7259"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/flight/IMG_7271.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/flight/IMG_7271.jpg"
+                                                        data-gallery="portfolioGallery-5" class="portfolio-lightbox"
+                                                        title="IMG_7271"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/flight/IMG_7276.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/flight/IMG_7276.jpg"
+                                                        data-gallery="portfolioGallery-5" class="portfolio-lightbox"
+                                                        title="IMG_7276"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/flight/IMG_7433.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/flight/IMG_7433.jpg"
+                                                        data-gallery="portfolioGallery-5" class="portfolio-lightbox"
+                                                        title="IMG_7433"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/flight/IMG_7479.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/flight/IMG_7479.jpg"
+                                                        data-gallery="portfolioGallery-5" class="portfolio-lightbox"
+                                                        title="IMG_7479"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details mb-5">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/mreal/flight/IMG_8359.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/mreal/flight/IMG_8359.jpg"
+                                                        data-gallery="portfolioGallery-5" class="portfolio-lightbox"
+                                                        title="IMG_8359"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </main><!-- End #main -->
+
+    <!-- ======= Footer ======= -->
+    <footer id="footer">
+        <div class="container">
+            <div class="copyright">
+                &copy; Copyright <strong><span>iPortfolio</span>&nbsp;& <br> Tiago 2024</strong>
+            </div>
+            <div class="credits">
+                <!-- All the links in the footer should remain intact. -->
+                <!-- You can delete the links only if you purchased the pro version. -->
+                <!-- Licensing information: https://bootstrapmade.com/license/ -->
+                <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/ -->
+                Original design by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+            </div>
+        </div>
+    </footer><!-- End  Footer -->
+
+    <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
+            class="bi bi-arrow-up-short"></i></a>
+
+    <!-- Vendor JS Files -->
+    <script src="../assets/vendor/purecounter/purecounter_vanilla.js"></script>
+    <script src="../assets/vendor/aos/aos.js"></script>
+    <script src="../assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="../assets/vendor/glightbox/js/glightbox.min.js"></script>
+    <script src="../assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+    <script src="../assets/vendor/swiper/swiper-bundle.min.js"></script>
+    <script src="../assets/vendor/typed.js/typed.umd.js"></script>
+    <script src="../assets/vendor/waypoints/noframework.waypoints.js"></script>
+    <script src="../assets/vendor/php-email-form/validate.js"></script>
+
+    <!-- Template Main JS File -->
+    <script src="../assets/js/main.js"></script>
+</body>
+
+</html>

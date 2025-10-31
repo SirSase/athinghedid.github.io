@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-TT3822KLT9"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'G-TT3822KLT9');
+  </script>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <meta name="author" content="Tiago Batista">
+  <title>Portfolio Details - Meia Maratona by Tiago Batista</title>
+  <meta content="Meia Maratona, Leira" name="description">
+  <meta content="Maratona, Meia Maratona, Leiria, Tiago Batista" name="keywords">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+
+  <!-- Favicons -->
+  <link href="../assets/img/favicon.png" rel="icon">
+  <link href="../assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link
+    href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
+    rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="../assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="../assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="../assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="../assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="../assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="../assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+
+  <!-- Template Main CSS File -->
+  <link href="../assets/css/style.css" rel="stylesheet">
+  <link href="../assets/css/custom.css" rel="stylesheet">
+
+  <!-- Custom JS File -->
+  <script src="../assets/js/custom.js"></script>
+
+  <!-- World map-->
+  <script src="../worldmap/mapdata.js"></script>
+  <script src="../worldmap/worldmap.js"></script>
+
+  <!-- =======================================================
+  * Template Name: iPortfolio
+  * Updated: Jan 29 2024 with Bootstrap v5.3.2
+  * Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
+</head>
+
+<body>
+
+  <!-- ======= Mobile nav toggle button ======= -->
+  <i class="bi bi-list mobile-nav-toggle d-xl-none"></i>
+
+  <!-- ======= Header ======= -->
+  <header id="header">
+    <div class="d-flex flex-column">
+
+      <div class="profile">
+        <img src="../assets/img/profile-img.jpg" alt="" class="img-fluid rounded-circle">
+        <h1 class="text-light"><a href="../index.html">Tiago B.</a></h1>
+        <div class="social-links mt-3 text-center">
+          <a href="https://www.goodreads.com/user/show/174311663-tiago-b" target="_blank" class="goodreads"><i
+              class="icon-goodreads"></i></a>
+          <a href="https://www.instagram.com/tiago.batista_athinghedid" target="_blank" class="instagram"><i
+              class="bx bxl-instagram"></i></a>
+          <a href="https://tbfotos.photohawk.com" target="_blank" class="" style="background: transparent;"><img src="../assets/img/phawk-logo.jpg" style="width: 35px; margin-top: 3px;"/></a>
+        </div>
+      </div>
+
+      <nav id="navbar" class="nav-menu navbar">
+        <ul>
+          <li><a href="../index.html" class="nav-link scrollto active"><i class="bx bx-home"></i> <span>Home</span></a>
+          </li>
+          <li>
+            <ul>
+              <li id="langPtOpt" style="display: none;"><a href="#" onclick="changeLanguage('pt')"><img
+                    src="../assets/img/pt.svg" width="35px"></a>
+              </li>
+              <li id="langEnOpt" style="display: none;"><a href="#" onclick="changeLanguage('en')"><img
+                    src="../assets/img/gb.svg" width="35px"></a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </nav><!-- .nav-menu -->
+    </div>
+  </header><!-- End Header -->
+
+  <main id="main">
+
+    <!-- ======= Breadcrumbs ======= -->
+    <section id="breadcrumbs" class="breadcrumbs">
+      <div class="container">
+
+        <div class="d-flex justify-content-between align-items-center">
+          <h2>Portfolio</h2>
+          <ol>
+            <li><a href="../index.html">Home</a></li>
+            <li>Portfolio</li>
+          </ol>
+        </div>
+
+      </div>
+    </section><!-- End Breadcrumbs -->
+
+    <!-- ======= Portfolio Details Section ======= -->
+    <section class="portfolio-details">
+      <div class="container">
+        <div class="row gy-4">
+          <div class="col-lg-4">
+            <div class="portfolio-info">
+              <h3><span data-i18n="details"></span></h3>
+              <ul>
+                <li><strong><span data-i18n="category"></span></strong>: <span data-i18n="sports"></span></li>
+                <li><strong><span data-i18n="event"></span></strong>: Meia Maratona Leiria</li>
+                <li><strong><span data-i18n="date"></span></strong>: 22 Out, 2023</li>
+                <li><strong>Website:</strong> <a href="https://waitastart.com/meia-maratona-leiria-23/"
+                    target="_blank">MeiaMaratonaLeiria</a></li>
+              </ul>
+            </div>
+            <div class="portfolio-description">
+              <h2>Meia Maratona Leiria</h2>
+              <p>
+                MEIA MARATONA LEIRIA é um evento de excelência, com dinâmicas que permitiram momentos fantásticos.
+                Uma prova certificada e reconhecida internacionalmente pela World Athletics, um evento que para além de
+                ser competitivo é um evento de emoções!
+              </p>
+              </p>
+            </div>
+          </div>
+          <div class="col-lg-8">
+            <div class="portfolio-details-slider swiper border border-info">
+              <div class="swiper-wrapper align-items-center">
+
+                <div class="swiper-slide">
+                  <div class="portfolio">
+                    <div class="portfolio-wrap">
+                      <img src="../assets/img/portfolio/meia-maratona/2023-10-22.09.29.49.jpeg" class="img-fluid"
+                        alt="">
+                      <div class="portfolio-links">
+                        <a href="../assets/img/portfolio/meia-maratona/2023-10-22.09.29.49.jpeg"
+                          data-gallery="portfolioGallery-2" class="portfolio-lightbox" title="2023-10-22.09.29.49"><i
+                            class="bx bx-window-open"></i></a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="swiper-slide">
+                  <div class="portfolio">
+                    <div class="portfolio-wrap">
+                      <img src="../assets/img/portfolio/meia-maratona/2023-10-22.10.11.00.jpeg" class="img-fluid"
+                        alt="">
+                      <div class="portfolio-links">
+                        <a href="../assets/img/portfolio/meia-maratona/2023-10-22.10.11.00.jpeg"
+                          data-gallery="portfolioGallery-2" class="portfolio-lightbox" title="2023-10-22.10.11.00"><i
+                            class="bx bx-window-open"></i></a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="swiper-slide">
+                  <div class="portfolio">
+                    <div class="portfolio-wrap">
+                      <img src="../assets/img/portfolio/meia-maratona/2023-10-22.09.39.09.jpeg" class="img-fluid"
+                        alt="">
+                      <div class="portfolio-links">
+                        <a href="../assets/img/portfolio/meia-maratona/2023-10-22.09.39.09.jpeg"
+                          data-gallery="portfolioGallery-2" class="portfolio-lightbox" title="2023-10-22.09.39.09"><i
+                            class="bx bx-window-open"></i></a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+              </div>
+              <div class="swiper-pagination"></div>
+            </div>
+          </div>
+
+
+        </div>
+      </div>
+
+    </section><!-- End Portfolio Details Section -->
+
+    <div class="container portfolio-details mb-5">
+      <div class="row">
+        <div class="col-lg-4">
+          <p>
+            A minha primeira prova de 10K. Completada em 1 hora e 12 minutos.
+          </p>
+
+        </div>
+        <div class="col-lg-8">
+          <section class="portfolio section-bg" style="padding: 0;">
+            <div class="row portfolio-container text-center">
+              <div class="portfolio-item">
+                <div class="portfolio-wrap">
+                  <img src="../assets/img/portfolio/meia-maratona/hes20231022048g04456-1.jpg" class="img-fluid" alt="">
+                  <div class="portfolio-links">
+                    <a href="../assets/img/portfolio/meia-maratona/hes20231022048g04456-1.jpg"
+                      data-gallery="portfolioGallery" class="portfolio-lightbox" title="hes20231022048g04456-1"><i
+                        class="bx bx-window-open"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </section>
+        </div>
+      </div>
+    </div>
+
+  </main><!-- End #main -->
+
+  <!-- ======= Footer ======= -->
+  <footer id="footer">
+    <div class="container">
+      <div class="copyright">
+        &copy; Copyright <strong><span>iPortfolio</span>&nbsp;& <br> Tiago 2024</strong>
+      </div>
+      <div class="credits">
+        <!-- All the links in the footer should remain intact. -->
+        <!-- You can delete the links only if you purchased the pro version. -->
+        <!-- Licensing information: https://bootstrapmade.com/license/ -->
+        <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/ -->
+        Original design by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+      </div>
+    </div>
+  </footer><!-- End  Footer -->
+
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
+      class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="../assets/vendor/purecounter/purecounter_vanilla.js"></script>
+  <script src="../assets/vendor/aos/aos.js"></script>
+  <script src="../assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="../assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="../assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="../assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="../assets/vendor/typed.js/typed.umd.js"></script>
+  <script src="../assets/vendor/waypoints/noframework.waypoints.js"></script>
+  <script src="../assets/vendor/php-email-form/validate.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="../assets/js/main.js"></script>
+</body>
+
+</html>

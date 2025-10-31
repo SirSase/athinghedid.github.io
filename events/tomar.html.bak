@@ -1,0 +1,2530 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-TT3822KLT9"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'G-TT3822KLT9');
+    </script>
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta name="author" content="Tiago Batista">
+    <title>Portfolio Details - Tomar by Tiago Batista</title>
+    <meta content="Tomar - Março - 2025" name="description">
+    <meta
+        content="tomar, passeio, cidade, templario, fosforo, museu do fosforo, colecao, collection, matches, Tiago Batista"
+        name="keywords">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+
+    <!-- Favicons -->
+    <link href="../assets/img/favicon.png" rel="icon">
+    <link href="../assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+    <!-- Google Fonts -->
+    <link
+        href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
+        rel="stylesheet">
+
+    <!-- Vendor CSS Files -->
+    <link href="../assets/vendor/aos/aos.css" rel="stylesheet">
+    <link href="../assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="../assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+    <link href="../assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+    <link href="../assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+    <link href="../assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+
+    <!-- Template Main CSS File -->
+    <link href="../assets/css/style.css" rel="stylesheet">
+    <link href="../assets/css/custom.css" rel="stylesheet">
+
+    <!-- Custom JS File -->
+    <script src="../assets/js/custom.js"></script>
+
+    <!-- World map-->
+    <script src="../worldmap/mapdata.js"></script>
+    <script src="../worldmap/worldmap.js"></script>
+
+    <!-- =======================================================
+  * Template Name: iPortfolio
+  * Updated: Jan 29 2024 with Bootstrap v5.3.2
+  * Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
+</head>
+
+<body>
+
+    <!-- ======= Mobile nav toggle button ======= -->
+    <i class="bi bi-list mobile-nav-toggle d-xl-none"></i>
+
+    <!-- ======= Header ======= -->
+    <header id="header">
+        <div class="d-flex flex-column">
+
+            <div class="profile">
+        <img src="../assets/img/profile-img.jpg" alt="" class="img-fluid rounded-circle">
+        <h1 class="text-light"><a href="../index.html">Tiago B.</a></h1>
+        <div class="social-links mt-3 text-center">
+          <a href="https://www.goodreads.com/user/show/174311663-tiago-b" target="_blank" class="goodreads"><i
+              class="icon-goodreads"></i></a>
+          <a href="https://www.instagram.com/tiago.batista_athinghedid" target="_blank" class="instagram"><i
+              class="bx bxl-instagram"></i></a>
+          <a href="https://tbfotos.photohawk.com" target="_blank" class="" style="background: transparent;"><img src="../assets/img/phawk-logo.jpg" style="width: 35px; margin-top: 3px;"/></a>
+        </div>
+      </div>
+
+            <nav id="navbar" class="nav-menu navbar">
+                <ul>
+                    <li><a href="../index.html" class="nav-link scrollto active"><i class="bx bx-home"></i>
+                            <span>Home</span></a>
+                    </li>
+                    <li>
+                        <ul>
+                            <li id="langPtOpt" style="display: none;"><a href="#" onclick="changeLanguage('pt')"><img
+                                        src="../assets/img/pt.svg" width="35px"></a>
+                            </li>
+                            <li id="langEnOpt" style="display: none;"><a href="#" onclick="changeLanguage('en')"><img
+                                        src="../assets/img/gb.svg" width="35px"></a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </nav><!-- .nav-menu -->
+        </div>
+    </header><!-- End Header -->
+
+    <main id="main">
+
+        <!-- ======= Breadcrumbs ======= -->
+        <section id="breadcrumbs" class="breadcrumbs">
+            <div class="container">
+
+                <div class="d-flex justify-content-between align-items-center">
+                    <h2>Portfolio</h2>
+                    <ol>
+                        <li><a href="../index.html">Home</a></li>
+                        <li>Portfolio</li>
+                    </ol>
+                </div>
+
+            </div>
+        </section><!-- End Breadcrumbs -->
+
+        <!-- ======= Portfolio Details Section ======= -->
+        <section class="portfolio-details">
+            <div class="container">
+                <div class="row gy-4">
+                    <div class="col-lg-4">
+                        <div class="portfolio-info">
+                            <h3><span data-i18n="details"></span></h3>
+                            <ul>
+                                <li><strong><span data-i18n="category"></span></strong>: <span
+                                        data-i18n="national"></span></li>
+                                <li><strong><span data-i18n="event"></span></strong>: Tomar e visita ao Convento de Cristo</li>
+                                <li><strong><span data-i18n="date"></span></strong>: 15 Mar, 2025</li>
+                            </ul>
+                        </div>
+                        <div class="portfolio-description">
+                            <i><p>
+                                Visita à cidade de Tomar, Convento de Cristo e Museu do fósforo. Um evento de skate decorria no centro.</i>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section><!-- End Portfolio Details Section -->
+
+        <div class="parallax-convento-cristo">
+            <div style="height: 500px;" class="text-center align-items-center d-flex">
+                <h2 class="justify-content-center align-self-center" style="color: white; margin-left: auto;
+            margin-right: auto; text-shadow: 1px 1px 2px black;"> <b><i></i></b> </h2>
+            </div>
+        </div>
+
+        <div class="container-fluid">
+            <div class="row no-gutter">
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0002.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0002.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0002"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0010.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0010.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0010"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0028.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0028.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0028"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0037.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0037.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0037"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0057.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0057.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0057"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0068.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0068.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0068"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0070.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0070.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0070"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0076.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0076.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0076"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0077.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0077.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0077"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0082.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0082.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0082"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0095.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0095.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0095"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0100.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0100.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0100"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0116.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0116.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0116"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0120.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0120.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0120"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0125.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0125.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0125"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0132.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0132.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0132"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0135.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0135.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0135"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0140.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0140.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0140"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0144.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0144.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0144"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0149.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0149.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0149"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0152.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0152.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0152"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0155.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0155.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0155"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0158.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0158.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0158"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0182.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0182.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0182"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0186.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0186.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0186"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0200.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0200.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0200"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0202.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0202.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0202"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0206.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0206.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0206"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0209.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0209.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0209"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0213.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0213.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0213"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0237.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0237.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0237"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0242.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0242.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0242"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0245.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0245.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0245"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0249.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0249.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0249"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0253.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0253.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0253"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0257.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0257.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0257"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0262.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0262.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0262"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0267.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0267.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0267"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0275.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0275.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0275"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0279.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0279.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0279"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0282.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0282.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0282"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0292.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0292.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0292"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0294.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0294.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0294"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0300.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0300.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0300"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0311.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0311.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0311"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0314.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0314.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0314"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0319.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0319.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0319"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0323.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0323.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0323"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details mb-5">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0335.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0335.jpg"
+                                                        data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                        title="IMG_0335"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+        <div class="parallax-tomar">
+            <div style="height: 500px;" class="text-center align-items-center d-flex">
+                <h2 class="justify-content-center align-self-center" style="color: white; margin-left: auto;
+            margin-right: auto; text-shadow: 1px 1px 2px black;"> <b><i>Por Tomar</i></b> </h2>
+            </div>
+        </div>
+
+
+        <div class="container-fluid">
+            <div class="row no-gutter">
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0344.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0344.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_0344"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0346.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0346.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_0346"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0353.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0353.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_0353"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0359.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0359.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_0359"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0360.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0360.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_0360"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0361.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0361.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_0361"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0367.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0367.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_0367"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0382.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0382.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_0382"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0387.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0387.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_0387"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0390.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0390.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_0390"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0391.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0391.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_0391"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0396.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0396.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_0396"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0401.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0401.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_0401"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0404.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0404.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_0404"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0420.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0420.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_0420"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0421.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0421.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_0421"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0430.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0430.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_0430"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0434.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0434.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_0434"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0444.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0444.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_0444"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details mb-5">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0450.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0450.jpg"
+                                                        data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                        title="IMG_0450"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+        <div class="parallax-museu-fosforo">
+            <div style="height: 500px;" class="text-center align-items-center d-flex">
+                <h2 class="justify-content-center align-self-center" style="color: white; margin-left: auto;
+            margin-right: auto; text-shadow: 1px 1px 2px black;"> <b><i>Museu dos Fósforos</i></b> </h2>
+            </div>
+        </div>
+
+        <div class="container-fluid">
+            <div class="row no-gutter">
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0453.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0453.jpg"
+                                                        data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                        title="IMG_0453"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0455.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0455.jpg"
+                                                        data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                        title="IMG_0455"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0459.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0459.jpg"
+                                                        data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                        title="IMG_0459"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0461.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0461.jpg"
+                                                        data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                        title="IMG_0461"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0463.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0463.jpg"
+                                                        data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                        title="IMG_0463"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0464.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0464.jpg"
+                                                        data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                        title="IMG_0464"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0467.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0467.jpg"
+                                                        data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                        title="IMG_0467"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0470.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0470.jpg"
+                                                        data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                        title="IMG_0470"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0472.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0472.jpg"
+                                                        data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                        title="IMG_0472"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0474.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0474.jpg"
+                                                        data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                        title="IMG_0474"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0477.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0477.jpg"
+                                                        data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                        title="IMG_0477"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0479.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0479.jpg"
+                                                        data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                        title="IMG_0479"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0484.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0484.jpg"
+                                                        data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                        title="IMG_0484"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="container portfolio-details mb-5">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0487.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0487.jpg"
+                                                        data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                        title="IMG_0487"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+
+            </div>
+        </div>
+
+        <div class="parallax-skate">
+            <div style="height: 500px;" class="text-center align-items-center d-flex">
+                <h2 class="justify-content-center align-self-center" style="color: white; margin-left: auto;
+            margin-right: auto; text-shadow: 1px 1px 2px black;"> <b><i>Evento de Skate</i></b> </h2>
+            </div>
+        </div>
+
+        <div class="container-fluid">
+            <div class="row no-gutter">
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0499.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0499.jpg"
+                                                        data-gallery="portfolioGallery-5" class="portfolio-lightbox"
+                                                        title="IMG_0499"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0500.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0500.jpg"
+                                                        data-gallery="portfolioGallery-5" class="portfolio-lightbox"
+                                                        title="IMG_0500"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0505.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0505.jpg"
+                                                        data-gallery="portfolioGallery-5" class="portfolio-lightbox"
+                                                        title="IMG_0505"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0506.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0506.jpg"
+                                                        data-gallery="portfolioGallery-5" class="portfolio-lightbox"
+                                                        title="IMG_0506"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0520.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0520.jpg"
+                                                        data-gallery="portfolioGallery-5" class="portfolio-lightbox"
+                                                        title="IMG_0520"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0536.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0536.jpg"
+                                                        data-gallery="portfolioGallery-5" class="portfolio-lightbox"
+                                                        title="IMG_0536"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0539.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0539.jpg"
+                                                        data-gallery="portfolioGallery-5" class="portfolio-lightbox"
+                                                        title="IMG_0539"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container portfolio-details mb-5">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="portfolio-details-slider swiper border border-info">
+                                <div class="swiper-wrapper align-items-center text-center">
+                                    <div class="swiper-slide">
+                                        <div class="portfolio">
+                                            <div class="portfolio-wrap">
+                                                <img src="../assets/img/portfolio/tomar/IMG_0541.jpg"
+                                                    class="img-fluid" alt="">
+                                                <div class="portfolio-links">
+                                                    <a href="../assets/img/portfolio/tomar/IMG_0541.jpg"
+                                                        data-gallery="portfolioGallery-5" class="portfolio-lightbox"
+                                                        title="IMG_0541"><i class="bx bx-window-open"></i></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+            </div>
+        </div>
+
+        
+
+
+
+
+    </main><!-- End #main -->
+
+    <!-- ======= Footer ======= -->
+    <footer id="footer">
+        <div class="container">
+            <div class="copyright">
+                &copy; Copyright <strong><span>iPortfolio</span>&nbsp;& <br> Tiago 2024</strong>
+            </div>
+            <div class="credits">
+                <!-- All the links in the footer should remain intact. -->
+                <!-- You can delete the links only if you purchased the pro version. -->
+                <!-- Licensing information: https://bootstrapmade.com/license/ -->
+                <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/ -->
+                Original design by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+            </div>
+        </div>
+    </footer><!-- End  Footer -->
+
+    <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
+            class="bi bi-arrow-up-short"></i></a>
+
+    <!-- Vendor JS Files -->
+    <script src="../assets/vendor/purecounter/purecounter_vanilla.js"></script>
+    <script src="../assets/vendor/aos/aos.js"></script>
+    <script src="../assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="../assets/vendor/glightbox/js/glightbox.min.js"></script>
+    <script src="../assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+    <script src="../assets/vendor/swiper/swiper-bundle.min.js"></script>
+    <script src="../assets/vendor/typed.js/typed.umd.js"></script>
+    <script src="../assets/vendor/waypoints/noframework.waypoints.js"></script>
+    <script src="../assets/vendor/php-email-form/validate.js"></script>
+
+    <!-- Template Main JS File -->
+    <script src="../assets/js/main.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,2730 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-TT3822KLT9"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'G-TT3822KLT9');
+    </script>
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta name="author" content="Tiago Batista">
+    <title>Portfolio Details - OCR Police Challenge - Leiria by Tiago Batista</title>
+    <meta content="OCR Police Challenge, Leiria" name="description">
+    <meta content="OCR Police Challenge, leiria, tiago batista" name="keywords">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+
+    <!-- Favicons -->
+    <link href="../assets/img/favicon.png" rel="icon">
+    <link href="../assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+    <!-- Google Fonts -->
+    <link
+        href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
+        rel="stylesheet">
+
+    <!-- Vendor CSS Files -->
+    <link href="../assets/vendor/aos/aos.css" rel="stylesheet">
+    <link href="../assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="../assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+    <link href="../assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+    <link href="../assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+    <link href="../assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+
+    <!-- Template Main CSS File -->
+    <link href="../assets/css/style.css" rel="stylesheet">
+    <link href="../assets/css/custom.css" rel="stylesheet">
+
+    <!-- Custom JS File -->
+    <script src="../assets/js/custom.js"></script>
+
+    <!-- World map-->
+    <script src="../worldmap/mapdata.js"></script>
+    <script src="../worldmap/worldmap.js"></script>
+
+    <!-- =======================================================
+  * Template Name: iPortfolio
+  * Updated: Jan 29 2024 with Bootstrap v5.3.2
+  * Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
+</head>
+
+<body>
+
+    <!-- ======= Mobile nav toggle button ======= -->
+    <i class="bi bi-list mobile-nav-toggle d-xl-none"></i>
+
+    <!-- ======= Header ======= -->
+    <header id="header">
+        <div class="d-flex flex-column">
+
+            <div class="profile">
+        <img src="../assets/img/profile-img.jpg" alt="" class="img-fluid rounded-circle">
+        <h1 class="text-light"><a href="../index.html">Tiago B.</a></h1>
+        <div class="social-links mt-3 text-center">
+          <a href="https://www.goodreads.com/user/show/174311663-tiago-b" target="_blank" class="goodreads"><i
+              class="icon-goodreads"></i></a>
+          <a href="https://www.instagram.com/tiago.batista_athinghedid" target="_blank" class="instagram"><i
+              class="bx bxl-instagram"></i></a>
+          <a href="https://tbfotos.photohawk.com" target="_blank" class="" style="background: transparent;"><img src="../assets/img/phawk-logo.jpg" style="width: 35px; margin-top: 3px;"/></a>
+        </div>
+      </div>
+
+            <nav id="navbar" class="nav-menu navbar">
+                <ul>
+                    <li><a href="../index.html" class="nav-link scrollto active"><i class="bx bx-home"></i>
+                            <span>Home</span></a>
+                    </li>
+                    <li>
+                        <ul>
+                            <li id="langPtOpt" style="display: none;"><a href="#" onclick="changeLanguage('pt')"><img
+                                        src="../assets/img/pt.svg" width="35px"></a>
+                            </li>
+                            <li id="langEnOpt" style="display: none;"><a href="#" onclick="changeLanguage('en')"><img
+                                        src="../assets/img/gb.svg" width="35px"></a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </nav><!-- .nav-menu -->
+        </div>
+    </header><!-- End Header -->
+
+    <main id="main">
+
+        <!-- ======= Breadcrumbs ======= -->
+        <section id="breadcrumbs" class="breadcrumbs">
+            <div class="container">
+
+                <div class="d-flex justify-content-between align-items-center">
+                    <h2>Portfolio</h2>
+                    <ol>
+                        <li><a href="../index.html">Home</a></li>
+                        <li>Portfolio</li>
+                    </ol>
+                </div>
+
+            </div>
+        </section><!-- End Breadcrumbs -->
+
+        <!-- ======= Portfolio Details Section ======= -->
+        <section class="portfolio-details">
+            <div class="container">
+                <div class="row gy-4">
+                    <div class="col-lg-4">
+                        <div class="portfolio-info">
+                            <h3><span data-i18n="details"></span></h3>
+                            <ul>
+                                <li><strong><span data-i18n="category"></span></strong>: <span
+                                        data-i18n="sports"></span></li>
+                                <li><strong><span data-i18n="event"></span></strong>: Leiria OCR Police 2024</li>
+                                <li><strong><span data-i18n="date"></span></strong>: 07 Jul, 2024</li>
+                                <li><strong>Website:</strong> <a href="https://nativewarriors.pt/evento/leiria-ocr-police-2024/"
+                                    target="_blank">Leiria Ocr Police</a></li>
+                            </ul>
+                        </div>
+                        <div class="portfolio-description">
+                            <h2>Leiria OCR Police 2024</h2>
+                            <p>
+                                <i>A zona Polis de Leiria é já considerada uma referência no OCR em Portugal, um desafio que permite a envolvência dos atletas, da cidade e de um público acolhedor, num evento cheio de emoções! <br><br>
+
+                                    Um fim de semana que promete ser diversificado, com múltiplas atividades e festividades numa cidade que respira e inspira a prática desportiva.<br><br>
+                                    
+                                    A prova conta com a tão desejada meta aquática, o ponto alto desta etapa, uma reta final única no mundo, com milhares de espectadores a vibrar com a tua chegada à meta.</i>
+
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-lg-8 align-items-center text-center">
+                        <div class="container portfolio-details  mb-5">
+                            <div class="row">
+                                <div class="col">
+                                    <div class="portfolio-details-slider swiper border border-info">
+                                        <div class="swiper-wrapper align-items-center text-center">
+
+                                            <div class="swiper-slide">
+                                                <div class="portfolio">
+                                                    <div class="portfolio-wrap">
+                                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/ocr-police-challenge.jpg"
+                                                            class="img-fluid" alt="">
+                                                        <div class="portfolio-links">
+                                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/ocr-police-challenge.jpg"
+                                                                data-gallery="portfolioGallery"
+                                                                class="portfolio-lightbox" title="Ocr Police Leiria"><i
+                                                                    class="bx bx-window-open"></i></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="swiper-slide">
+                                                <div class="portfolio">
+                                                    <div class="portfolio-wrap">
+                                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3292.jpg"
+                                                            class="img-fluid" alt="">
+                                                        <div class="portfolio-links">
+                                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3292.jpg"
+                                                                data-gallery="portfolioGallery"
+                                                                class="portfolio-lightbox" title="2024_07_07_3292"><i
+                                                                    class="bx bx-window-open"></i></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                        <div class="swiper-pagination"></div>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section><!-- End Portfolio Details Section -->
+
+        <div class="container portfolio-details  mb-5">
+            <div class="row">
+                <div class="col-lg-8">
+                    <div class="portfolio-details-slider swiper border border-info">
+                        <div class="swiper-wrapper align-items-center text-center">
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2544.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2544.jpg"
+                                                data-gallery="portfolioGallery-1" class="portfolio-lightbox"
+                                                title="2024_07_07_2544"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2546.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2546.jpg"
+                                                data-gallery="portfolioGallery-1" class="portfolio-lightbox"
+                                                title="2024_07_07_2546"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2528.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2528.jpg"
+                                                data-gallery="portfolioGallery-1" class="portfolio-lightbox"
+                                                title="2024_07_07_2528"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2531.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2531.jpg"
+                                                data-gallery="portfolioGallery-1" class="portfolio-lightbox"
+                                                title="2024_07_07_2531"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                        <div class="swiper-pagination"></div>
+                    </div>
+
+                </div>
+
+                <div class="col-lg-4">
+                    <p>
+                        <i>Esta é a 2ª etapa do Circuito Trichallenge 2024, um circuito com 3 conceitos diferentes: Montanha, Cidade e Praia. <br><br>
+
+                            Leiria recebe assim a 5ª edição da OCR Police Challenge, com duas categorias <br><br>
+                            
+                            <b>FUN – os atletas participam de forma lúdica, em equipa com familiares e ou amigos, podendo ajudarem-se uns aos outros a transpor os obstáculos;</b> <br><br>
+                            
+                            ELITE – uma participação exigente de grande competitividade, com luta pelos melhores resultados e classificação nos pódios.</i>
+                    </p>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="parallax-equipa">
+            <div style="height: 500px;" class="text-center align-items-center d-flex">
+                <h2 class="justify-content-center align-self-center" style="color: white; margin-left: auto;
+            margin-right: auto; text-shadow: 1px 1px 2px black;"> <b><i>A equipa</i></b> </h2>
+            </div>
+        </div>
+
+
+
+
+        <div class="container portfolio-details mb-5">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="portfolio-details-slider swiper border border-info">
+                        <div class="swiper-wrapper align-items-center text-center">
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2601.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2601.jpg"
+                                                data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                title="2024_07_07_2601"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2613.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2613.jpg"
+                                                data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                title="2024_07_07_2613"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2615.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2615.jpg"
+                                                data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                title="2024_07_07_2615"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2617.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2617.jpg"
+                                                data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                title="2024_07_07_2617"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2619.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2619.jpg"
+                                                data-gallery="portfolioGallery-2" class="portfolio-lightbox"
+                                                title="2024_07_07_2619"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                        <div class="swiper-pagination"></div>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+
+        
+        <div class="parallax-prova-ocr">
+            <div style="height: 500px;" class="text-center align-items-center d-flex">
+                <h2 class="justify-content-center align-self-center" style="color: white; margin-left: auto;
+            margin-right: auto; text-shadow: 1px 1px 2px black;"> <b><i>A prova</i></b> </h2>
+            </div>
+        </div>
+
+
+        <div class="container portfolio-details">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="portfolio-details-slider swiper border border-info">
+                        <div class="swiper-wrapper align-items-center text-center">
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2552.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2552.jpg"
+                                                data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                title="2024_07_07_2552"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2556.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2556.jpg"
+                                                data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                title="2024_07_07_2556"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2558.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2558.jpg"
+                                                data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                title="2024_07_07_2558"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2560.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2560.jpg"
+                                                data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                title="2024_07_07_2560"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2563.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2563.jpg"
+                                                data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                title="2024_07_07_2563"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2565.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2565.jpg"
+                                                data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                title="2024_07_07_2565"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2568.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2568.jpg"
+                                                data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                title="2024_07_07_2568"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2569.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2569.jpg"
+                                                data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                title="2024_07_07_2569"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2573.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2573.jpg"
+                                                data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                title="2024_07_07_2573"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2576.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2576.jpg"
+                                                data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                title="2024_07_07_2576"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2578.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2578.jpg"
+                                                data-gallery="portfolioGallery-3" class="portfolio-lightbox"
+                                                title="2024_07_07_2578"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                        <div class="swiper-pagination"></div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+
+        <div class="container portfolio-details">
+            <div class="row">
+
+                <div class="col-lg-12">
+                    <div class="portfolio-details-slider swiper border border-info">
+                        <div class="swiper-wrapper align-items-center text-center">
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2588.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2588.jpg"
+                                                data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                title="2024_07_07_2588"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2589.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2589.jpg"
+                                                data-gallery="portfolioGallery-4" class="portfolio-lightbox"
+                                                title="2024_07_07_2589"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            
+
+
+                        </div>
+                        <div class="swiper-pagination"></div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="container portfolio-details">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="portfolio-details-slider swiper border border-info">
+                        <div class="swiper-wrapper align-items-center text-center">
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2629.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2629.jpg"
+                                                data-gallery="portfolioGallery-5" class="portfolio-lightbox"
+                                                title="2024_05_11_1225"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2631.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2631.jpg"
+                                                data-gallery="portfolioGallery-5" class="portfolio-lightbox"
+                                                title="2024_07_07_2631"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2634.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2634.jpg"
+                                                data-gallery="portfolioGallery-5" class="portfolio-lightbox"
+                                                title="2024_07_07_2634"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2636.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2636.jpg"
+                                                data-gallery="portfolioGallery-5" class="portfolio-lightbox"
+                                                title="2024_07_07_2636"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2642.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2642.jpg"
+                                                data-gallery="portfolioGallery-5" class="portfolio-lightbox"
+                                                title="2024_07_07_2642"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                        </div>
+                        <div class="swiper-pagination"></div>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+
+        <div class="container portfolio-details mb-5">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="portfolio-details-slider swiper border border-info">
+                        <div class="swiper-wrapper align-items-center text-center">
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2658.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2658.jpg"
+                                                data-gallery="portfolioGallery-6" class="portfolio-lightbox"
+                                                title="2024_07_07_2658"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2659.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2659.jpg"
+                                                data-gallery="portfolioGallery-6" class="portfolio-lightbox"
+                                                title="2024_07_07_2659"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2663.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2663.jpg"
+                                                data-gallery="portfolioGallery-6" class="portfolio-lightbox"
+                                                title="2024_07_07_2663"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                        <div class="swiper-pagination"></div>
+                    </div>
+
+                </div>
+
+
+            </div>
+        </div>
+
+        <div class="parallax-rio">
+            <div style="height: 500px;" class="text-center align-items-center d-flex">
+                <h2 class="justify-content-center align-self-center" style="color: white; margin-left: auto;
+            margin-right: auto; text-shadow: 1px 1px 2px black;"> <b><i>O rio</i></b> </h2>
+            </div>
+        </div>
+
+
+
+        <div class="container portfolio-details">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="portfolio-details-slider swiper border border-info">
+                        <div class="swiper-wrapper align-items-center text-center">
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2758.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2758.jpg"
+                                                data-gallery="portfolioGallery-8" class="portfolio-lightbox"
+                                                title="2024_07_07_2758"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2760.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2760.jpg"
+                                                data-gallery="portfolioGallery-8" class="portfolio-lightbox"
+                                                title="2024_07_07_2760"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2767.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2767.jpg"
+                                                data-gallery="portfolioGallery-8" class="portfolio-lightbox"
+                                                title="2024_05_11_1295"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2775.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2775.jpg"
+                                                data-gallery="portfolioGallery-8" class="portfolio-lightbox"
+                                                title="2024_07_07_2775"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                        <div class="swiper-pagination"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="container portfolio-details mb-5">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="portfolio-details-slider swiper border border-info">
+                        <div class="swiper-wrapper align-items-center text-center">
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2785.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2785.jpg"
+                                                data-gallery="portfolioGallery-9" class="portfolio-lightbox"
+                                                title="2024_07_07_2785"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2788.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2788.jpg"
+                                                data-gallery="portfolioGallery-9" class="portfolio-lightbox"
+                                                title="2024_07_07_2788"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2791.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2791.jpg"
+                                                data-gallery="portfolioGallery-9" class="portfolio-lightbox"
+                                                title="2024_07_07_2791"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2793.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2793.jpg"
+                                                data-gallery="portfolioGallery-9" class="portfolio-lightbox"
+                                                title="2024_07_07_2793"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2794.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2794.jpg"
+                                                data-gallery="portfolioGallery-9" class="portfolio-lightbox"
+                                                title="2024_07_07_2794"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2796.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2796.jpg"
+                                                data-gallery="portfolioGallery-9" class="portfolio-lightbox"
+                                                title="2024_07_07_2796"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2797.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2797.jpg"
+                                                data-gallery="portfolioGallery-9" class="portfolio-lightbox"
+                                                title="2024_07_07_2797"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2799.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2799.jpg"
+                                                data-gallery="portfolioGallery-9" class="portfolio-lightbox"
+                                                title="2024_07_07_2799"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2806.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2806.jpg"
+                                                data-gallery="portfolioGallery-9" class="portfolio-lightbox"
+                                                title="2024_07_07_2806"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2809.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2809.jpg"
+                                                data-gallery="portfolioGallery-9" class="portfolio-lightbox"
+                                                title="2024_07_07_2809"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2811.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2811.jpg"
+                                                data-gallery="portfolioGallery-9" class="portfolio-lightbox"
+                                                title="2024_07_07_2811"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2825.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2825.jpg"
+                                                data-gallery="portfolioGallery-9" class="portfolio-lightbox"
+                                                title="2024_07_07_2825"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2831.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2831.jpg"
+                                                data-gallery="portfolioGallery-9" class="portfolio-lightbox"
+                                                title="2024_07_07_2831"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2833.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2833.jpg"
+                                                data-gallery="portfolioGallery-9" class="portfolio-lightbox"
+                                                title="2024_07_07_2833"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2835.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2835.jpg"
+                                                data-gallery="portfolioGallery-9" class="portfolio-lightbox"
+                                                title="2024_07_07_2835"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2838.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2838.jpg"
+                                                data-gallery="portfolioGallery-9" class="portfolio-lightbox"
+                                                title="2024_07_07_2838"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2846.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2846.jpg"
+                                                data-gallery="portfolioGallery-9" class="portfolio-lightbox"
+                                                title="2024_07_07_2846"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2848.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2848.jpg"
+                                                data-gallery="portfolioGallery-9" class="portfolio-lightbox"
+                                                title="2024_07_07_2848"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2849.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2849.jpg"
+                                                data-gallery="portfolioGallery-9" class="portfolio-lightbox"
+                                                title="2024_07_07_2849"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                        <div class="swiper-pagination"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="container portfolio-details">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="portfolio-details-slider swiper border border-info">
+                        <div class="swiper-wrapper align-items-center text-center">
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2852.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2852.jpg"
+                                                data-gallery="portfolioGallery-10" class="portfolio-lightbox"
+                                                title="2024_07_07_2852"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2853.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2853.jpg"
+                                                data-gallery="portfolioGallery-10" class="portfolio-lightbox"
+                                                title="2024_07_07_2853"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2856.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2856.jpg"
+                                                data-gallery="portfolioGallery-10" class="portfolio-lightbox"
+                                                title="2024_07_07_2856"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2860.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2860.jpg"
+                                                data-gallery="portfolioGallery-10" class="portfolio-lightbox"
+                                                title="2024_07_07_2860"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2866.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2866.jpg"
+                                                data-gallery="portfolioGallery-10" class="portfolio-lightbox"
+                                                title="2024_07_07_2866"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                        <div class="swiper-pagination"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="container portfolio-details">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="portfolio-details-slider swiper border border-info">
+                        <div class="swiper-wrapper align-items-center text-center">
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2885.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2885.jpg"
+                                                data-gallery="portfolioGallery-11" class="portfolio-lightbox"
+                                                title="2024_07_07_2885"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2882.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2882.jpg"
+                                                data-gallery="portfolioGallery-11" class="portfolio-lightbox"
+                                                title="2024_07_07_2882"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2888.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2888.jpg"
+                                                data-gallery="portfolioGallery-11" class="portfolio-lightbox"
+                                                title="2024_07_07_2888"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2893.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2893.jpg"
+                                                data-gallery="portfolioGallery-11" class="portfolio-lightbox"
+                                                title="2024_07_07_2893"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2894.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2894.jpg"
+                                                data-gallery="portfolioGallery-11" class="portfolio-lightbox"
+                                                title="2024_07_07_2894"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2897.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2897.jpg"
+                                                data-gallery="portfolioGallery-11" class="portfolio-lightbox"
+                                                title="2024_07_07_2897"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                        </div>
+                        <div class="swiper-pagination"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="container portfolio-details">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="portfolio-details-slider swiper border border-danger">
+                        <div class="swiper-wrapper align-items-center text-center">
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2899.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2899.jpg"
+                                                data-gallery="portfolioGallery-12" class="portfolio-lightbox"
+                                                title="2024_07_07_2899"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2901.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2901.jpg"
+                                                data-gallery="portfolioGallery-12" class="portfolio-lightbox"
+                                                title="2024_07_07_2901"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2904.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2904.jpg"
+                                                data-gallery="portfolioGallery-12" class="portfolio-lightbox"
+                                                title="2024_07_07_2904"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2912.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2912.jpg"
+                                                data-gallery="portfolioGallery-12" class="portfolio-lightbox"
+                                                title="2024_07_07_2912"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2915.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2915.jpg"
+                                                data-gallery="portfolioGallery-12" class="portfolio-lightbox"
+                                                title="2024_07_07_2915"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2920.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2920.jpg"
+                                                data-gallery="portfolioGallery-12" class="portfolio-lightbox"
+                                                title="2024_07_07_2920"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2923.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2923.jpg"
+                                                data-gallery="portfolioGallery-12" class="portfolio-lightbox"
+                                                title="2024_07_07_2923"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2925.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2925.jpg"
+                                                data-gallery="portfolioGallery-12" class="portfolio-lightbox"
+                                                title="2024_07_07_2925"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2928.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2928.jpg"
+                                                data-gallery="portfolioGallery-12" class="portfolio-lightbox"
+                                                title="2024_07_07_2928"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2930.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2930.jpg"
+                                                data-gallery="portfolioGallery-12" class="portfolio-lightbox"
+                                                title="2024_07_07_2930"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2931.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2931.jpg"
+                                                data-gallery="portfolioGallery-12" class="portfolio-lightbox"
+                                                title="2024_07_07_2931"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2933.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2933.jpg"
+                                                data-gallery="portfolioGallery-12" class="portfolio-lightbox"
+                                                title="2024_07_07_2933"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2937.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2937.jpg"
+                                                data-gallery="portfolioGallery-12" class="portfolio-lightbox"
+                                                title="2024_07_07_2937"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                        </div>
+                        <div class="swiper-pagination"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="container portfolio-details">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="portfolio-details-slider swiper border border-info">
+                        <div class="swiper-wrapper align-items-center text-center">
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2939.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2939.jpg"
+                                                data-gallery="portfolioGallery-13" class="portfolio-lightbox"
+                                                title="2024_07_07_2939"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2940.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2940.jpg"
+                                                data-gallery="portfolioGallery-13" class="portfolio-lightbox"
+                                                title="2024_07_07_2940"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2945.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2945.jpg"
+                                                data-gallery="portfolioGallery-13" class="portfolio-lightbox"
+                                                title="2024_07_07_2945"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2946.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2946.jpg"
+                                                data-gallery="portfolioGallery-13" class="portfolio-lightbox"
+                                                title="2024_07_07_2946"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2949.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2949.jpg"
+                                                data-gallery="portfolioGallery-13" class="portfolio-lightbox"
+                                                title="2024_07_07_2949"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2959.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2959.jpg"
+                                                data-gallery="portfolioGallery-13" class="portfolio-lightbox"
+                                                title="2024_07_07_2959"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2965.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2965.jpg"
+                                                data-gallery="portfolioGallery-13" class="portfolio-lightbox"
+                                                title="2024_07_07_2965"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2968.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2968.jpg"
+                                                data-gallery="portfolioGallery-13" class="portfolio-lightbox"
+                                                title="2024_07_07_2968"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2974.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2974.jpg"
+                                                data-gallery="portfolioGallery-13" class="portfolio-lightbox"
+                                                title="2024_07_07_2974"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2978.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2978.jpg"
+                                                data-gallery="portfolioGallery-13" class="portfolio-lightbox"
+                                                title="2024_07_07_2978"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                        <div class="swiper-pagination"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="container portfolio-details">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="portfolio-details-slider swiper border border-info">
+                        <div class="swiper-wrapper align-items-center text-center">
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2982.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2982.jpg"
+                                                data-gallery="portfolioGallery-14" class="portfolio-lightbox"
+                                                title="2024_07_07_2982"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2983.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2983.jpg"
+                                                data-gallery="portfolioGallery-14" class="portfolio-lightbox"
+                                                title="2024_07_07_2983"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2985.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2985.jpg"
+                                                data-gallery="portfolioGallery-14" class="portfolio-lightbox"
+                                                title="2024_07_07_2985"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2988.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2988.jpg"
+                                                data-gallery="portfolioGallery-14" class="portfolio-lightbox"
+                                                title="2024_07_07_2988"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2993.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2993.jpg"
+                                                data-gallery="portfolioGallery-14" class="portfolio-lightbox"
+                                                title="2024_07_07_2993"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2995.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2995.jpg"
+                                                data-gallery="portfolioGallery-14" class="portfolio-lightbox"
+                                                title="2024_07_07_2995"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3011.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3011.jpg"
+                                                data-gallery="portfolioGallery-14" class="portfolio-lightbox"
+                                                title="2024_07_07_3011"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3013.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3013.jpg"
+                                                data-gallery="portfolioGallery-14" class="portfolio-lightbox"
+                                                title="2024_07_07_3013"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2995.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_2995.jpg"
+                                                data-gallery="portfolioGallery-14" class="portfolio-lightbox"
+                                                title="2024_07_07_2995"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3017.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3017.jpg"
+                                                data-gallery="portfolioGallery-14" class="portfolio-lightbox"
+                                                title="2024_07_07_3017"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3019.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3019.jpg"
+                                                data-gallery="portfolioGallery-14" class="portfolio-lightbox"
+                                                title="2024_07_07_3019"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3036.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3036.jpg"
+                                                data-gallery="portfolioGallery-14" class="portfolio-lightbox"
+                                                title="2024_07_07_3036"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3037.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3037.jpg"
+                                                data-gallery="portfolioGallery-14" class="portfolio-lightbox"
+                                                title="2024_07_07_3037"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3044.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3044.jpg"
+                                                data-gallery="portfolioGallery-14" class="portfolio-lightbox"
+                                                title="2024_07_07_3044"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3045.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3045.jpg"
+                                                data-gallery="portfolioGallery-14" class="portfolio-lightbox"
+                                                title="2024_07_07_3045"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3053.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3053.jpg"
+                                                data-gallery="portfolioGallery-14" class="portfolio-lightbox"
+                                                title="2024_07_07_3053"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                        </div>
+                        <div class="swiper-pagination"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="container-fluid portfolio-details">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="portfolio-details-slider swiper border border-warning"
+                        style="padding: 0; border-width: 5px!important;">
+                        <div class="swiper-wrapper align-items-center text-center">
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3050.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3050.jpg"
+                                                data-gallery="portfolioGallery-16" class="portfolio-lightbox"
+                                                title="2024_07_07_3050"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="container portfolio-details">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="portfolio-details-slider swiper border border-info">
+                        <div class="swiper-wrapper align-items-center text-center">
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3063.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3063.jpg"
+                                                data-gallery="portfolioGallery-15" class="portfolio-lightbox"
+                                                title="2024_07_07_3063"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3074.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3074.jpg"
+                                                data-gallery="portfolioGallery-15" class="portfolio-lightbox"
+                                                title="2024_07_07_3074"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3075.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3075.jpg"
+                                                data-gallery="portfolioGallery-15" class="portfolio-lightbox"
+                                                title="2024_07_07_3075"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3079.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3079.jpg"
+                                                data-gallery="portfolioGallery-15" class="portfolio-lightbox"
+                                                title="2024_07_07_3079"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3081.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3081.jpg"
+                                                data-gallery="portfolioGallery-15" class="portfolio-lightbox"
+                                                title="2024_07_07_3081"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3083.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3083.jpg"
+                                                data-gallery="portfolioGallery-15" class="portfolio-lightbox"
+                                                title="2024_07_07_3083"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3085.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3085.jpg"
+                                                data-gallery="portfolioGallery-15" class="portfolio-lightbox"
+                                                title="2024_07_07_3085"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3087.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3087.jpg"
+                                                data-gallery="portfolioGallery-15" class="portfolio-lightbox"
+                                                title="2024_07_07_3087"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3094.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3094.jpg"
+                                                data-gallery="portfolioGallery-15" class="portfolio-lightbox"
+                                                title="2024_07_07_3094"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3095.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3095.jpg"
+                                                data-gallery="portfolioGallery-15" class="portfolio-lightbox"
+                                                title="2024_07_07_3095"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3099.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3099.jpg"
+                                                data-gallery="portfolioGallery-15" class="portfolio-lightbox"
+                                                title="2024_07_07_3099"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3101.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3101.jpg"
+                                                data-gallery="portfolioGallery-15" class="portfolio-lightbox"
+                                                title="2024_07_07_3101"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3102.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3102.jpg"
+                                                data-gallery="portfolioGallery-15" class="portfolio-lightbox"
+                                                title="2024_07_07_3102"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                        </div>
+                        <div class="swiper-pagination"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+        <div class="container-fluid portfolio-details">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="portfolio-details-slider swiper border border-warning"
+                        style="padding: 0; border-width: 5px!important;">
+                        <div class="swiper-wrapper align-items-center text-center">
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3105.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3105.jpg"
+                                                data-gallery="portfolioGallery-7" class="portfolio-lightbox"
+                                                title="2024_07_07_3105"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="container portfolio-details">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="portfolio-details-slider swiper border border-info">
+                        <div class="swiper-wrapper align-items-center text-center">
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3110.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3110.jpg"
+                                                data-gallery="portfolioGallery-17" class="portfolio-lightbox"
+                                                title="2024_07_07_3110"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3112.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3112.jpg"
+                                                data-gallery="portfolioGallery-17" class="portfolio-lightbox"
+                                                title="2024_07_07_3112"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3144.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3144.jpg"
+                                                data-gallery="portfolioGallery-17" class="portfolio-lightbox"
+                                                title="2024_07_07_3144"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3164.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3164.jpg"
+                                                data-gallery="portfolioGallery-17" class="portfolio-lightbox"
+                                                title="2024_07_07_3164"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3167.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3167.jpg"
+                                                data-gallery="portfolioGallery-17" class="portfolio-lightbox"
+                                                title="2024_07_07_3167"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3169.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3169.jpg"
+                                                data-gallery="portfolioGallery-17" class="portfolio-lightbox"
+                                                title="2024_07_07_3169"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                        </div>
+                        <div class="swiper-pagination"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="container portfolio-details mb-5">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="portfolio-details-slider swiper border border-info">
+                        <div class="swiper-wrapper align-items-center text-center">
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3172.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3172.jpg"
+                                                data-gallery="portfolioGallery-19" class="portfolio-lightbox"
+                                                title="2024_07_07_3172"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3173.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3173.jpg"
+                                                data-gallery="portfolioGallery-19" class="portfolio-lightbox"
+                                                title="2024_07_07_3173"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3174.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3174.jpg"
+                                                data-gallery="portfolioGallery-19" class="portfolio-lightbox"
+                                                title="2024_07_07_3174"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3181.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3181.jpg"
+                                                data-gallery="portfolioGallery-19" class="portfolio-lightbox"
+                                                title="2024_07_07_3181"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3183.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3183.jpg"
+                                                data-gallery="portfolioGallery-19" class="portfolio-lightbox"
+                                                title="2024_07_07_3183"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3185.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3185.jpg"
+                                                data-gallery="portfolioGallery-19" class="portfolio-lightbox"
+                                                title="2024_07_07_3185"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3186.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3186.jpg"
+                                                data-gallery="portfolioGallery-19" class="portfolio-lightbox"
+                                                title="2024_07_07_3186"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3188.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3188.jpg"
+                                                data-gallery="portfolioGallery-19" class="portfolio-lightbox"
+                                                title="2024_07_07_3188"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3196.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3196.jpg"
+                                                data-gallery="portfolioGallery-19" class="portfolio-lightbox"
+                                                title="2024_07_07_3196"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3211.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3211.jpg"
+                                                data-gallery="portfolioGallery-19" class="portfolio-lightbox"
+                                                title="2024_07_07_3211"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3215.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3215.jpg"
+                                                data-gallery="portfolioGallery-19" class="portfolio-lightbox"
+                                                title="2024_07_07_3215"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3217.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3217.jpg"
+                                                data-gallery="portfolioGallery-19" class="portfolio-lightbox"
+                                                title="2024_07_07_3217"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3219.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3219.jpg"
+                                                data-gallery="portfolioGallery-19" class="portfolio-lightbox"
+                                                title="2024_07_07_3219"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3221.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3221.jpg"
+                                                data-gallery="portfolioGallery-19" class="portfolio-lightbox"
+                                                title="2024_07_07_3221"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3224.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3224.jpg"
+                                                data-gallery="portfolioGallery-19" class="portfolio-lightbox"
+                                                title="2024_07_07_3224"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3229.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3229.jpg"
+                                                data-gallery="portfolioGallery-19" class="portfolio-lightbox"
+                                                title="2024_07_07_3229"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                        <div class="swiper-pagination"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="parallax-final">
+            <div style="height: 500px;" class="text-center align-items-center d-flex">
+                <h2 class="justify-content-center align-self-center" style="color: white; margin-left: auto;
+            margin-right: auto; text-shadow: 1px 1px 2px black;"> <b><i>A chegada</i></b> </h2>
+            </div>
+        </div>
+
+        <div class="container portfolio-details">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="portfolio-details-slider swiper border border-info">
+                        <div class="swiper-wrapper align-items-center text-center">
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3254.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3254.jpg"
+                                                data-gallery="portfolioGallery-21" class="portfolio-lightbox"
+                                                title="2024_07_07_3254"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3256.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3256.jpg"
+                                                data-gallery="portfolioGallery-21" class="portfolio-lightbox"
+                                                title="2024_07_07_3256"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3259.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3259.jpg"
+                                                data-gallery="portfolioGallery-21" class="portfolio-lightbox"
+                                                title="2024_07_07_3259"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3261.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3261.jpg"
+                                                data-gallery="portfolioGallery-21" class="portfolio-lightbox"
+                                                title="2024_07_07_3261"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3264.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3264.jpg"
+                                                data-gallery="portfolioGallery-21" class="portfolio-lightbox"
+                                                title="2024_07_07_3264"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3267.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3267.jpg"
+                                                data-gallery="portfolioGallery-21" class="portfolio-lightbox"
+                                                title="2024_07_07_3267"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3268.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3268.jpg"
+                                                data-gallery="portfolioGallery-21" class="portfolio-lightbox"
+                                                title="2024_07_07_3268"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3270.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3270.jpg"
+                                                data-gallery="portfolioGallery-21" class="portfolio-lightbox"
+                                                title="2024_07_07_3270"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3271.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3271.jpg"
+                                                data-gallery="portfolioGallery-21" class="portfolio-lightbox"
+                                                title="2024_07_07_3271"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3275.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3275.jpg"
+                                                data-gallery="portfolioGallery-21" class="portfolio-lightbox"
+                                                title="2024_07_07_3275"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3278.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3278.jpg"
+                                                data-gallery="portfolioGallery-21" class="portfolio-lightbox"
+                                                title="2024_07_07_3278"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3282.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3282.jpg"
+                                                data-gallery="portfolioGallery-21" class="portfolio-lightbox"
+                                                title="2024_07_07_3282"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="swiper-slide">
+                                <div class="portfolio">
+                                    <div class="portfolio-wrap">
+                                        <img src="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3289.jpg"
+                                            class="img-fluid" alt="">
+                                        <div class="portfolio-links">
+                                            <a href="../assets/img/portfolio/ocr-police-challenge-leiria/2024_07_07_3289.jpg"
+                                                data-gallery="portfolioGallery-21" class="portfolio-lightbox"
+                                                title="2024_07_07_3289"><i class="bx bx-window-open"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                        </div>
+                        <div class="swiper-pagination"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    <div class="container-fluid portfolio-details">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="portfolio-details-slider swiper border border-danger"
+                    style="padding: 0; border-width: 5px!important;">
+                    <div class="swiper-wrapper align-items-center text-center">
+
+                        <div class="swiper-slide">
+                            <div class="portfolio">
+                                <div class="portfolio-wrap">
+                                    <img src="../assets/img/portfolio/ocr-police-challenge-leiria/medalha.jpg"
+                                        class="img-fluid" alt="">
+                                    <div class="portfolio-links">
+                                        <a href="../assets/img/portfolio/ocr-police-challenge-leiria/medalha.jpg"
+                                            data-gallery="portfolioGallery-22" class="portfolio-lightbox"
+                                            title="Medalha"><i class="bx bx-window-open"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container p-5">
+        <div class="row">
+            <div class="col-md-12 align-items-center text-center">
+                <img src="../assets/img/portfolio/ocr-police-challenge-leiria/splinter.png" width="50%" class="img-fluid" alt="">
+            </div>
+        </div>
+    </div>
+
+    </main><!-- End #main -->
+
+    <!-- ======= Footer ======= -->
+    <footer id="footer">
+        <div class="container">
+            <div class="copyright">
+                &copy; Copyright <strong><span>iPortfolio</span>&nbsp;& <br> Tiago 2024</strong>
+            </div>
+            <div class="credits">
+                <!-- All the links in the footer should remain intact. -->
+                <!-- You can delete the links only if you purchased the pro version. -->
+                <!-- Licensing information: https://bootstrapmade.com/license/ -->
+                <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/ -->
+                Original design by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+            </div>
+        </div>
+    </footer><!-- End  Footer -->
+
+    <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
+            class="bi bi-arrow-up-short"></i></a>
+
+    <!-- Vendor JS Files -->
+    <script src="../assets/vendor/purecounter/purecounter_vanilla.js"></script>
+    <script src="../assets/vendor/aos/aos.js"></script>
+    <script src="../assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="../assets/vendor/glightbox/js/glightbox.min.js"></script>
+    <script src="../assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+    <script src="../assets/vendor/swiper/swiper-bundle.min.js"></script>
+    <script src="../assets/vendor/typed.js/typed.umd.js"></script>
+    <script src="../assets/vendor/waypoints/noframework.waypoints.js"></script>
+    <script src="../assets/vendor/php-email-form/validate.js"></script>
+
+    <!-- Template Main JS File -->
+    <script src="../assets/js/main.js"></script>
+</body>
+
+</html>
