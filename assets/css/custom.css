@@ -986,6 +986,18 @@
     background-size: cover;
 }
 
+.parallax-feira-cavalo {
+    /* Background image */
+    background-image: url("../img/portfolio/feira-nacional-cavalo/IMG_0002.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 .border-yellow{
     --bs-border-opacity: 1;
     border-color: rgba(255,238,16,var(--bs-border-opacity)) !important;
