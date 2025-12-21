@@ -18,6 +18,7 @@
     <lastmod>2025-11-09</lastmod>
     <changefreq>never</changefreq>
     <priority>1</priority>
+  </url>
 
   
   <url>
@@ -131,6 +132,12 @@
   <url>
     <loc>https://www.athinghedid.com/events/obidos-vila-natal.html</loc>
     <lastmod>2024-12-29</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.athinghedid.com/events/xmas-night-trail.html</loc>
+    <lastmod>2025-12-21</lastmod>
     <changefreq>never</changefreq>
     <priority>0.7</priority>
   </url>
