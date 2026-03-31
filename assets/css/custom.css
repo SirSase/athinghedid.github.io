@@ -998,6 +998,43 @@
     background-size: cover;
 }
 
+
+.parallax-easymiles-rececao {
+    /* Background image */
+    background-image: url("../img/portfolio/easymiles-dia-mulher/IMG_0041.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax-easymiles-aquecimento {
+    /* Background image */
+    background-image: url("../img/portfolio/easymiles-dia-mulher/IMG_0176.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax-easymiles-prova {
+    /* Background image */
+    background-image: url("../img/portfolio/easymiles-dia-mulher/IMG_1151.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 .border-yellow{
     --bs-border-opacity: 1;
     border-color: rgba(255,238,16,var(--bs-border-opacity)) !important;

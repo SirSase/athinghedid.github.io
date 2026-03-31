@@ -1243,7 +1243,7 @@ var simplemaps_worldmap_mapdata={
     },
     ES: {
       name: "Spain",
-      description: "Visited prior to 2024",
+      description: "",
       color: "#6bc6ff",
       hover_color: "default",
       url: "default"
