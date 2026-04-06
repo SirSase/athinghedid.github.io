@@ -1071,6 +1071,41 @@
     background-size: cover;
 }
 
+.parallax-rota-tomar-aquecimento {
+    /* Background image */
+    background-image: url("../img/portfolio/rota-tomar/IMG_0038.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax-rota-tomar-caminhada {
+    /* Background image */
+    background-image: url("../img/portfolio/rota-tomar/IMG_0091.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax-rota-tomar-sinalizacao {
+    /* Background image */
+    background-image: url("../img/portfolio/rota-tomar/IMG_0217.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 .border-yellow{
     --bs-border-opacity: 1;
     border-color: rgba(255,238,16,var(--bs-border-opacity)) !important;
