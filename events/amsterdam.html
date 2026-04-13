@@ -9361,7 +9361,9 @@
 
                 function navigateToHash() {
                     if (!location.hash) return;
-                    scrollToHash(location.hash);
+                    var currentHash = location.hash;
+                    scrollToHash(currentHash);
+                    history.replaceState(null, '', location.pathname + location.search);
                 }
 
                 window.addEventListener('scroll', function () {
@@ -9401,7 +9403,6 @@
                         event.preventDefault();
                         var hash = this.getAttribute('href');
                         if (hash) {
-                            history.pushState(null, '', hash);
                             scrollToHash(hash);
                         }
                     });
