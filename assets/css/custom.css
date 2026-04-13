@@ -1106,6 +1106,118 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.parallax-amsterdam-dia1 {
+    /* Background image */
+    background-image: url("../img/portfolio/amsterdam/day1/IMG_0003.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax-amsterdam-dia2 {
+    /* Background image */
+    background-image: url("../img/portfolio/amsterdam/day2/1tulip-experience/IMG_0002.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax-amsterdam-dia2-tulip-experience {
+    /* Background image */
+    background-image: url("../img/portfolio/amsterdam/day2/1tulip-experience/IMG_0002.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax-amsterdam-dia2-kuekenhof {
+    /* Background image */
+    background-image: url("../img/portfolio/amsterdam/day2/2kuekenhof/IMG_0224.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax-amsterdam-dia2-redlightdistrict {
+    /* Background image */
+    background-image: url("../img/portfolio/amsterdam/day2/3redlight-district/IMG_0409.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax-amsterdam-dia3 {
+    /* Background image */
+    background-image: url("../img/portfolio/amsterdam/day3/1zaans-schans/IMG_0003.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax-amsterdam-dia3-zaansschans {
+    /* Background image */
+    background-image: url("../img/portfolio/amsterdam/day3/1zaans-schans/IMG_0003.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax-amsterdam-dia3-volendam {
+    /* Background image */
+    background-image: url("../img/portfolio/amsterdam/day3/2volendam/IMG_0288.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax-amsterdam-dia3-marken {
+    /* Background image */
+    background-image: url("../img/portfolio/amsterdam/day3/3marken/IMG_0459.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax-amsterdam-dia4 {
+    /* Background image */
+    background-image: url("../img/portfolio/amsterdam/day4/IMG_0016.jpg");
+    /* Set a specific height */
+    min-height: 500px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 .border-yellow{
     --bs-border-opacity: 1;
     border-color: rgba(255,238,16,var(--bs-border-opacity)) !important;

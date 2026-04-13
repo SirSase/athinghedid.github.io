@@ -838,7 +838,7 @@ var simplemaps_worldmap_mapdata={
     NL: {
       name: "Netherlands",
       description: "default",
-      color: "default",
+      color: "#6bc6ff",
       hover_color: "default",
       url: "default"
     },
@@ -1724,6 +1724,17 @@ var simplemaps_worldmap_mapdata={
       url: "events/valencia.html",
       size: "10",
       type: "star",
+      scale: "yes"
+    },
+    "13": {
+      name: "Amsterdão",
+      lat: "52.3676",
+      lng: "4.9041",
+      color: "#fa040c",
+      description: "Amsterdão - Apr 2025",
+      url: "events/amsterdam.html",
+      size: "10",
+      type: "heart",
       scale: "yes"
     }
   },
