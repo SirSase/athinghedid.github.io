@@ -27,6 +27,21 @@ async function changeLanguage(lang) {
     updateContent(langData);
 }
 
+function setImageLazyLoading() {
+    document.querySelectorAll('img').forEach(img => {
+        if (!img.hasAttribute('loading')) {
+            img.setAttribute('loading', 'lazy');
+        }
+        if (!img.hasAttribute('decoding')) {
+            img.setAttribute('decoding', 'async');
+        }
+    });
+}
+
+window.addEventListener('DOMContentLoaded', () => {
+    setImageLazyLoading();
+});
+
 // Call updateContent() on page load
 window.addEventListener('DOMContentLoaded', async () => {
     const userPreferredLanguage = localStorage.getItem('language') || 'pt';
