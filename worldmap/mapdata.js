@@ -1731,7 +1731,7 @@ var simplemaps_worldmap_mapdata={
       lat: "52.3676",
       lng: "4.9041",
       color: "#fa040c",
-      description: "Amsterdão - Apr 2025",
+      description: "Amsterdão - Apr 2026",
       url: "events/amsterdam.html",
       size: "10",
       type: "heart",
