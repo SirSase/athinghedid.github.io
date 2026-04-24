@@ -1723,10 +1723,10 @@ var simplemaps_worldmap_mapdata={
       description: "Valência - Set 2025",
       url: "events/valencia.html",
       size: "10",
-      type: "star",
+      type: "circle",
       scale: "yes"
     },
-    "13": {
+    "14": {
       name: "Amsterdão",
       lat: "52.3676",
       lng: "4.9041",
